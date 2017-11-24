@@ -2,22 +2,22 @@ var stations_custom = {
     "vancouver": [
         {
             name: "CBC Radio One - CBC Vancouver",
-            logo: "http://www.cbc.ca/mediacentre/content/images/620x296-CBC_RadioOne.jpg",
+            logo: "images/vancouver/CBC_RadioOne.jpg",
             url: "http://www.cbc.ca/listen/live/radio1/vancouver"
         },
         {
             name: "CBC Radio 2",
-            logo: "http://www.cbc.ca/mediacentre/content/images/Radio2_Logo_highres.png",
+            logo: "images/vancouver/CBC_Radio_2.png",
             url: "http://www.cbc.ca/listen/live/radio2/vancouver"
         },
         {
             name: "AM 730",
-            logo: "http://img.corusradio.com/fb-like-icons/1500x1500/chmjam.jpg",
+            logo: "images/vancouver/AM 730.jpg",
             url: "http://live.leanstream.co/CHMJAM-MP3?type=.mp3&playertype=dplayer"
         },
         {
             name: "TSN 1040",
-            logo: "https://pbs.twimg.com/profile_images/620989406116204544/i2AkMJm__400x400.jpg",
+            logo: "images/vancouver/TSN 1040.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC.aac"
         },
         {
