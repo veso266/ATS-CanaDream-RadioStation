@@ -1,0 +1,10 @@
+CHNL 	610 AM 	Kamloops 	NL Broadcasting 	news/talk/sports --- DONE
+CFBX-FM 	92.5 FM 	Kamloops 	Thompson Rivers University 	campus radio --- DONE
+CBYK-FM 	94.1 FM 	Kamloops 	CBC Radio One 	public news/talk --- DONE
+CBUF-FM-6 	96.5 FM 	Kamloops 	Ici Radio-Canada Premiere 	public news/talk (French) --- DONE
+CKRV-FM 	97.5 FM 	Kamloops 	NL Broadcasting 	hot adult contemporary --- DONE
+CIFM-FM 	98.3 FM 	Kamloops 	Jim Pattison Group 	active rock --- DONE
+CKBZ-FM 	100.1 FM 	Kamloops 	Jim Pattison Group 	hot adult contemporary --- NO
+CBPL-FM 	101.9 FM 	Kamloops 	CBC/Weatheradio Canada 	weather alerts --- NO
+CJKC-FM 	103.1 FM 	Kamloops 	NL Broadcasting 	country --- DONE
+CBU-FM-4 	105.3 FM 	Kamloops 	CBC Radio 2 	public music --- DONE

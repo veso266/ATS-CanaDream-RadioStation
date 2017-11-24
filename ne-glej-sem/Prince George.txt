@@ -1,0 +1,9 @@
+CFUR-FM 	88.7 FM 	Prince George 	University of Northern British Columbia 	campus radio
+CBU-FM-5 	90.3 FM 	Prince George 	CBC Radio 2 	public music
+CBYG-FM 	91.5 FM 	Prince George 	CBC Radio One 	public news/talk
+CFIS-FM 	93.1 FM 	Prince George 	Prince George Community Radio Society 	community radio
+CIRX-FM 	94.3 FM 	Prince George 	Vista Broadcast Group 	modern rock
+CBUF-FM-4 	95.5 FM 	Prince George 	Ici Radio-Canada Premiere 	public news/talk (French)
+CJCI-FM 	97.3 FM 	Prince George 	Vista Broadcast Group 	country
+CKDV-FM 	99.3 FM 	Prince George 	Jim Pattison Group 	classic hits
+CKKN-FM 	101.3 FM 	Prince George 	Jim Pattison Group 	hot adult contemporary

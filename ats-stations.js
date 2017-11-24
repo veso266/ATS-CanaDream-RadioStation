@@ -36,6 +36,48 @@ var stations_custom = {
             url: "http://7bvan0.akacast.akamaistream.net/7/286/177417/v1/rc.akacast.akamaistream.net/7BVAN0"
         },
     ],
+	"kamloops": [
+        {
+            name: "CBC Radio One - CBC Kamloops",
+            logo: "images/kamloops/CBC_RadioOne.jpg",
+            url: "http://www.cbc.ca/listen/live/radio1/kamloops"
+        },
+        {
+            name: "CBC Radio 2",
+            logo: "images/kamloops/CBC_Radio_2.png",
+            url: "http://www.cbc.ca/listen/live/radio2/vancouver"
+        },
+        {
+            name: "Radio NL 610 AM",
+            logo: "images/kamloops/Radio NL 610 AM.png",
+            url: "http://ice10.securenetsystems.net/CHNLAM"
+        },
+        {
+            name: "The X",
+            logo: "images/kamloops/92.5 FM The X.png",
+            url: "http://thexaudio.tru.ca:8002/;stream.mp3"
+        },
+        {
+            name: "Ici Radio-Canada Première",
+            logo: "images/kamloops/Ici Radio-Canada Première.png",
+            url: "http://d2e1wsg2gpoq0n.cloudfront.net/livecf/CJRJ/playlist.m3u8"
+        },
+        {
+            name: "97.5 The River",
+            logo: "images/kamloops/97.5 The River.png",
+            url: "http://ice5.securenetsystems.net/CKRV?type=.flv&playSessionID=56F551FF-CF4C-EC25-A45342F2157F715F"
+        },
+        {
+            name: "CIFM-FM Kamloops",
+            logo: "images/kamloops/CIFM-FM Kamloops.png",
+            url: "http://ais.streamon.fm:8000/ais/CIFM-48k.aac"
+        },
+		{
+            name: "New Country 103.1",
+            logo: "images/kamloops/New Country 103.1.png",
+            url: "http://ice8.securenetsystems.net/CJKC?type=.flv&playSessionID=576231DA-155D-C0F3-039273366217D2CF"
+        },
+    ],
     "yukon": [
         {
             name: "CBC Radio One - CBC North",

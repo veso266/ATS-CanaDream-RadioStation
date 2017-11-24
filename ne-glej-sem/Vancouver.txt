@@ -1,0 +1,27 @@
+CBU 	690 AM 	Vancouver 	CBC Radio One 	public news/talk --- DONE
+CHMJ 	730 AM 	Vancouver 	Corus Entertainment 	traffic information --- DONE
+CKST 	1040 AM 	Vancouver 	Bell Media 	sports --- DONE
+CKWX 	1130 AM 	Vancouver 	Rogers Communications 	news/traffic --- NO
+CJRJ 	1200 AM 	Vancouver 	I.T. Productions 	multilingual --- Spice Radio --- DONE
+CHMB 	1320 AM 	Vancouver 	Mainstream Broadcasting Corporation 	multilingual --- NO
+CFTE 	1410 AM 	Vancouver 	Bell Media 	sports --- NO
+CJVB 	1470 AM 	Vancouver 	Fairchild Radio 	multilingual ---- NO
+CBU-2-FM 	88.1 FM 	Vancouver 	CBC Radio One 	public news/talk --- Aldready in
+CBUX-FM 	90.9 FM 	Vancouver 	Ici Musique 	public music (French) --- DONE
+CKYE-FM 	93.1 FM 	Vancouver 	South Asian Broadcasting Corporation 	multilingual ---- NO
+CJJR-FM 	93.7 FM 	Vancouver 	Jim Pattison Group 	country --- CAN'T
+CFBT-FM 	94.5 FM 	Vancouver 	Bell Media 	CHR
+CKZZ-FM 	95.3 FM 	Vancouver 	Newcap Radio 	CHR
+CHKG-FM 	96.1 FM 	Vancouver 	Fairchild Radio 	multilingual
+CJAX-FM 	96.9 FM 	Vancouver 	Rogers Communications 	adult hits
+CBUF-FM 	97.7 FM 	Vancouver 	Ici Radio-Canada Premiere 	public news/talk (French)
+CIRH-FM 	98.3 FM 	Vancouver 	Roundhouse Radio 	community radio/talk
+CFOX-FM 	99.3 FM 	Vancouver 	Corus Entertainment 	active rock
+CFRO-FM 	100.5 FM 	Vancouver 	Vancouver Cooperative Radio 	community radio
+CITR-FM 	101.9 FM 	Vancouver 	University of British Columbia 	campus radio
+CKPK-FM 	102.7 FM 	Vancouver 	Jim Pattison Group 	modern rock
+CHQM-FM 	103.5 FM 	Vancouver 	Bell Media 	adult contemporary
+CHLG-FM 	104.3 FM 	Vancouver 	Newcap Radio 	adult hits
+CKKS-FM-2 	104.9 FM 	Vancouver 	Rogers Communications 	CHR
+CBU-FM 	105.7 FM 	Vancouver 	CBC Radio 2 	public music
+CKUR 	106.3 FM 	Vancouver

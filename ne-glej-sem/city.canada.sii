@@ -2,8 +2,8 @@ SiiNunit
 {
 
 @include "city/vancouver.sii" --- DONE
-@include "city/kamloops.sii"
-@include "city/princegeorge.sii"
+@include "city/kamloops.sii" --- DONE
+@include "city/princegeorge.sii" --- JUTRI DOKONČAM
 @include "city/edmonton.sii"
 @include "city/calgary.sii"
 @include "city/princerupert.sii"
