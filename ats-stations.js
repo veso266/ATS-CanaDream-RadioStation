@@ -1,4 +1,5 @@
 //CBC Direct Station URLs: http://www.cbc.ca/radio/includes/streams.html
+//Some Canadien station URLs: http://radiovibrations.com/rsd/
 var stations_custom = {
     "vancouver": [
         {
