@@ -1,14 +1,15 @@
+//CBC Direct Station URLs: http://www.cbc.ca/radio/includes/streams.html
 var stations_custom = {
     "vancouver": [
         {
             name: "CBC Radio One - CBC Vancouver",
             logo: "images/vancouver/CBC_RadioOne.jpg",
-            url: "http://www.cbc.ca/listen/live/radio1/vancouver"
+            url: "http://cbc_r1_vcr.akacast.akamaistream.net/7/723/451661/v1/rc.akacast.akamaistream.net/cbc_r1_vcr"
         },
         {
-            name: "CBC Radio 2",
+            name: "CBC Radio 2 Vancouver",
             logo: "images/vancouver/CBC_Radio_2.png",
-            url: "http://www.cbc.ca/listen/live/radio2/vancouver"
+            url: " 	http://cbc_r2_vcr.akacast.akamaistream.net/7/773/451661/v1/rc.akacast.akamaistream.net/cbc_r2_vcr"
         },
         {
             name: "AM 730",
@@ -40,7 +41,7 @@ var stations_custom = {
         {
             name: "CBC Radio One - CBC Kamloops",
             logo: "images/kamloops/CBC_RadioOne.jpg",
-            url: "http://www.cbc.ca/listen/live/radio1/kamloops"
+            url: "http://cbc_r1_kam.akacast.akamaistream.net/7/440/451661/v1/rc.akacast.akamaistream.net/cbc_r1_kam"
         },
         {
             name: "CBC Radio 2",
