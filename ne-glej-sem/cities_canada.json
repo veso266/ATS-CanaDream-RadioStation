@@ -1,0 +1,524 @@
+{
+  "citiesList": [
+    {
+      "gameName": "chapleau",
+      "realName": "Chapleau",
+      "country": "ontario",
+      "x": "48197.1",
+      "y": "140.434",
+      "z": "-53884.2"
+    },
+    {
+      "gameName": "dawsoncreek",
+      "realName": "Dawson Creek",
+      "country": "britcolumb",
+      "x": "-74949.1",
+      "y": "98.7344",
+      "z": "-106148"
+    },
+    {
+      "gameName": "deaselake",
+      "realName": "Dease Lake",
+      "country": "britcolumb",
+      "x": "-95251.7",
+      "y": "98.5313",
+      "z": "-129369"
+    },
+    {
+      "gameName": "edmonton",
+      "realName": "Edmonton",
+      "country": "alberta",
+      "x": "-58262",
+      "y": "160.844",
+      "z": "-89326.9"
+    },
+    {
+      "gameName": "anchorage",
+      "realName": "Anchorage",
+      "country": "alaska",
+      "x": "98911.1",
+      "y": "49.168",
+      "z": "-64965.4"
+    },
+    {
+      "gameName": "baiecomeau",
+      "realName": "Baie-Comeau",
+      "country": "quebec",
+      "x": "99059.4",
+      "y": "112.98",
+      "z": "-73027.1"
+    },
+    {
+      "gameName": "calgary",
+      "realName": "Calgary",
+      "country": "alberta",
+      "x": "-64088.6",
+      "y": "225.559",
+      "z": "-74325.2"
+    },
+    {
+      "gameName": "chapleau",
+      "realName": "Chapleau",
+      "country": "ontario",
+      "x": "48197.1",
+      "y": "140.434",
+      "z": "-53884.2"
+    },
+    {
+      "gameName": "dawsoncreek",
+      "realName": "Dawson Creek",
+      "country": "britcolumb",
+      "x": "-74949.1",
+      "y": "98.7344",
+      "z": "-106148"
+    },
+    {
+      "gameName": "deaselake",
+      "realName": "Dease Lake",
+      "country": "britcolumb",
+      "x": "-95251.7",
+      "y": "98.5313",
+      "z": "-129369"
+    },
+    {
+      "gameName": "dryden",
+      "realName": "Dryden",
+      "country": "ontario",
+      "x": "12291.8",
+      "y": "89.3789",
+      "z": "-63082.2"
+    },
+    {
+      "gameName": "edmonton",
+      "realName": "Edmonton",
+      "country": "alberta",
+      "x": "-58262",
+      "y": "160.844",
+      "z": "-89326.9"
+    },
+    {
+      "gameName": "fortfrances",
+      "realName": "Fort Frances",
+      "country": "ontario",
+      "x": "9220.64",
+      "y": "89.3789",
+      "z": "-55796.3"
+    },
+    {
+      "gameName": "fortmcmurray",
+      "realName": "Fort McMurray",
+      "country": "alberta",
+      "x": "-47067.2",
+      "y": "50.4766",
+      "z": "-107664"
+    },
+    {
+      "gameName": "fortnelson",
+      "realName": "Fort Nelson",
+      "country": "britcolumb",
+      "x": "-75233.3",
+      "y": "98.5313",
+      "z": "-124972"
+    },
+    {
+      "gameName": "fortsimpson",
+      "realName": "Fort Simpson",
+      "country": "northterrr",
+      "x": "-67255",
+      "y": "98.5313",
+      "z": "-141067"
+    },
+    {
+      "gameName": "fredericton",
+      "realName": "Fredericton",
+      "country": "newbrunswi",
+      "x": "112384",
+      "y": "39.0586",
+      "z": "-57236.5"
+    },
+    {
+      "gameName": "gaspe",
+      "realName": "Gaspe",
+      "country": "quebec",
+      "x": "113350",
+      "y": "88.3594",
+      "z": "-74955.3"
+    },
+    {
+      "gameName": "golden",
+      "realName": "Golden",
+      "country": "britcolumb",
+      "x": "-73410.9",
+      "y": "264.496",
+      "z": "-79297.7"
+    },
+    {
+      "gameName": "grandfalls",
+      "realName": "Grand Falls",
+      "country": "newbrunswi",
+      "x": "106470",
+      "y": "46.3906",
+      "z": "-63541.6"
+    },
+    {
+      "gameName": "halifax",
+      "realName": "Halifax",
+      "country": "novascotia",
+      "x": "126331",
+      "y": "73.2773",
+      "z": "-54553"
+    },
+    {
+      "gameName": "hearst",
+      "realName": "Hearst",
+      "country": "ontario",
+      "x": "45405.4",
+      "y": "104.34",
+      "z": "-64762.7"
+    },
+    {
+      "gameName": "highlevel",
+      "realName": "High Level",
+      "country": "alberta",
+      "x": "-60917.7",
+      "y": "98.5313",
+      "z": "-120900"
+    },
+    {
+      "gameName": "houstoncan",
+      "realName": "Houston",
+      "country": "britcolumb",
+      "x": "-97567.9",
+      "y": "98.5313",
+      "z": "-104145"
+    },
+    {
+      "gameName": "iroquoisfall",
+      "realName": "Iroquois Falls",
+      "country": "ontario",
+      "x": "57355.1",
+      "y": "104.055",
+      "z": "-60873.2"
+    },
+    {
+      "gameName": "jasper",
+      "realName": "Jasper",
+      "country": "alberta",
+      "x": "-73415",
+      "y": "184.633",
+      "z": "-88979.8"
+    },
+    {
+      "gameName": "kamloops",
+      "realName": "Kamloops",
+      "country": "britcolumb",
+      "x": "-86562.3",
+      "y": "111.246",
+      "z": "-79463.3"
+    },
+    {
+      "gameName": "kindersley",
+      "realName": "Kindersley",
+      "country": "saskatchew",
+      "x": "-45923",
+      "y": "101.059",
+      "z": "-75881.9"
+    },
+    {
+      "gameName": "kingston",
+      "realName": "Kingston",
+      "country": "ontario",
+      "x": "79248.8",
+      "y": "104.355",
+      "z": "-38968.6"
+    },
+    {
+      "gameName": "labradorcity",
+      "realName": "Labrador City",
+      "country": "newfoundla",
+      "x": "93507.1",
+      "y": "42.5859",
+      "z": "-93864.3"
+    },
+    {
+      "gameName": "laclabiche",
+      "realName": "Lac La Biche",
+      "country": "alberta",
+      "x": "-51299.1",
+      "y": "58.4609",
+      "z": "-96200.2"
+    },
+    {
+      "gameName": "latuque",
+      "realName": "La Tuque",
+      "country": "quebec",
+      "x": "86850.1",
+      "y": "85.5508",
+      "z": "-58882.9"
+    },
+    {
+      "gameName": "lloydminster",
+      "realName": "Lloydminster",
+      "country": "saskatchew",
+      "x": "-47007",
+      "y": "178.246",
+      "z": "-86748.3"
+    },
+    {
+      "gameName": "maniwaki",
+      "realName": "Maniwaki",
+      "country": "quebec",
+      "x": "76695.3",
+      "y": "95.2305",
+      "z": "-51041.1"
+    },
+    {
+      "gameName": "maplecreek",
+      "realName": "Maple Creek",
+      "country": "saskatchew",
+      "x": "-48690.6",
+      "y": "96.9609",
+      "z": "-65890.8"
+    },
+    {
+      "gameName": "marathon",
+      "realName": "Marathon",
+      "country": "ontario",
+      "x": "37156.5",
+      "y": "104.055",
+      "z": "-57067.3"
+    },
+    {
+      "gameName": "matane",
+      "realName": "Matane",
+      "country": "quebec",
+      "x": "103192",
+      "y": "48.1836",
+      "z": "-72119.8"
+    },
+    {
+      "gameName": "montreal",
+      "realName": "Montreal",
+      "country": "quebec",
+      "x": "88078.1",
+      "y": "46.8359",
+      "z": "-48357.2"
+    },
+    {
+      "gameName": "nakina",
+      "realName": "Nakina",
+      "country": "ontario",
+      "x": "34124.8",
+      "y": "104.055",
+      "z": "-66400.7"
+    },
+    {
+      "gameName": "ottawa",
+      "realName": "Ottawa",
+      "country": "ontario",
+      "x": "81267",
+      "y": "99.2305",
+      "z": "-46320.4"
+    },
+    {
+      "gameName": "parrysound",
+      "realName": "Parry Sound",
+      "country": "ontario",
+      "x": "65455.3",
+      "y": "104.055",
+      "z": "-41134.3"
+    },
+    {
+      "gameName": "princegeorge",
+      "realName": "Prince George",
+      "country": "britcolumb",
+      "x": "-87517.5",
+      "y": "85.8359",
+      "z": "-99375.6"
+    },
+    {
+      "gameName": "princerupert",
+      "realName": "Prince Rupert",
+      "country": "britcolumb",
+      "x": "-108895",
+      "y": "88",
+      "z": "-107909"
+    },
+    {
+      "gameName": "quebec",
+      "realName": "Quebec",
+      "country": "quebec",
+      "x": "93155.4",
+      "y": "33.3398",
+      "z": "-58398.7"
+    },
+    {
+      "gameName": "rdl",
+      "realName": "Riviere-du-Loup",
+      "country": "quebec",
+      "x": "98911.1",
+      "y": "49.168",
+      "z": "-64965.4"
+    },
+    {
+      "gameName": "regina",
+      "realName": "Regina",
+      "country": "saskatchew",
+      "x": "-31901.6",
+      "y": "90.3281",
+      "z": "-68350.9"
+    },
+    {
+      "gameName": "rouynnoranda",
+      "realName": "Rouyn-Noranda",
+      "country": "quebec",
+      "x": "64290.2",
+      "y": "64.8164",
+      "z": "-59556.8"
+    },
+    {
+      "gameName": "russel",
+      "realName": "Russel",
+      "country": "manitob",
+      "x": "-18438.4",
+      "y": "103",
+      "z": "-68912.5"
+    },
+    {
+      "gameName": "saguenay",
+      "realName": "Saguenay",
+      "country": "quebec",
+      "x": "91106.6",
+      "y": "105.066",
+      "z": "-66192.5"
+    },
+    {
+      "gameName": "saskatoon",
+      "realName": "Saskatoon",
+      "country": "saskatchew",
+      "x": "-37439.1",
+      "y": "82.7734",
+      "z": "-77226.7"
+    },
+    {
+      "gameName": "saultmarie",
+      "realName": "Sault-Ste-Marie",
+      "country": "ontario",
+      "x": "46658.4",
+      "y": "94.9297",
+      "z": "-45949.8"
+    },
+    {
+      "gameName": "septiles",
+      "realName": "Sept-iles",
+      "country": "quebec",
+      "x": "103300",
+      "y": "50",
+      "z": "-80432.5"
+    },
+    {
+      "gameName": "stewart",
+      "realName": "Stewart",
+      "country": "britcolumb",
+      "x": "-102241",
+      "y": "98.5313",
+      "z": "-115701"
+    },
+    {
+      "gameName": "sudbury",
+      "realName": "Sudbury",
+      "country": "ontario",
+      "x": "59362.2",
+      "y": "87.5352",
+      "z": "-47613.1"
+    },
+    {
+      "gameName": "thunderbay",
+      "realName": "Thunder Bay",
+      "country": "ontario",
+      "x": "25157.2",
+      "y": "100.648",
+      "z": "-54438.7"
+    },
+    {
+      "gameName": "toronto",
+      "realName": "Toronto",
+      "country": "ontario",
+      "x": "67315",
+      "y": "100.648",
+      "z": "-33489.6"
+    },
+    {
+      "gameName": "truro",
+      "realName": "Truro",
+      "country": "novascotia",
+      "x": "126436",
+      "y": "69.418",
+      "z": "-59150.2"
+    },
+    {
+      "gameName": "vancouver",
+      "realName": "Vancouver",
+      "country": "britcolumb",
+      "x": "-98879.3",
+      "y": "122.016",
+      "z": "-73589.9"
+    },
+    {
+      "gameName": "virden",
+      "realName": "Virden",
+      "country": "manitob",
+      "x": "-17350.5",
+      "y": "37.8477",
+      "z": "-63395.2"
+    },
+    {
+      "gameName": "watsonlake",
+      "realName": "Watson Lake",
+      "country": "yukonn",
+      "x": "-86524.3",
+      "y": "129.629",
+      "z": "-136995"
+    },
+    {
+      "gameName": "whitehorse",
+      "realName": "Whitehorse",
+      "country": "yukonn",
+      "x": "-99299",
+      "y": "93.9961",
+      "z": "-145242"
+    },
+    {
+      "gameName": "williamslake",
+      "realName": "Williams Lake",
+      "country": "britcolumb",
+      "x": "-89195.2",
+      "y": "145.02",
+      "z": "-88717.9"
+    },
+    {
+      "gameName": "winnipeg",
+      "realName": "Winnipeg",
+      "country": "manitob",
+      "x": "-3862.98",
+      "y": "57.9648",
+      "z": "-62793.3"
+    },
+    {
+      "gameName": "yarmouth",
+      "realName": "Yarmouth",
+      "country": "novascotia",
+      "x": "118775",
+      "y": "74.4766",
+      "z": "-48255.3"
+    },
+    {
+      "gameName": "yellowknife",
+      "realName": "Yellowknife",
+      "country": "northterrr",
+      "x": "-46836.9",
+      "y": "88",
+      "z": "-140606"
+    }
+  ]
+}
