@@ -4,7 +4,7 @@
 // http://ais.streamon.fm:8000/ais/CKDV-48k.aac --- CKDV-FM
 // http://cfis.streamon.fm:8000/cfis-48k.aac --- CFIS-FM
 // http://ais.streamon.fm:8000/ais/CKKN-48k.aac -- CKKN-FM
-// http://cjsi.streamon.fm:8000/CJSI-48k.aac -- CJSI-FM
+// http://cjsi.streamon.fm:8000/CJSI-48k.aac -- CJSI-FM (note to self: Add to Favourites.json)
 // http://cfex.streamon.fm:8000/CFEX-48k.aac -- CJFEX-FM
 // http://ckua.streamon.fm:8000/CKUA-48k.aac -- CKUA-FM
 // http://ais.streamon.fm:8000/ais/CKWD-48k.aac -- CKWD
