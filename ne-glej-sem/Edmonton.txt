@@ -1,0 +1,28 @@
+CKUA 	580 AM 	Edmonton 	CKUA Radio Network 	public broadcasting
+CHED 	630 AM 	Edmonton 	Corus Entertainment 	news/talk
+CBX 	740 AM 	Edmonton 	CBC Radio One 	public news/talk
+CHQT 	880 AM 	Edmonton 	Corus Entertainment 	news
+CJCA 	930 AM 	Edmonton 	Touch Canada Broadcasting 	Christian radio
+CFRN 	1260 AM 	Edmonton 	Bell Media Radio 	sports
+CJSR-FM 	88.5 FM 	Edmonton 	First Alberta Campus Radio Association 	campus radio
+CKAV-FM-4 	89.3 FM 	Edmonton 	Aboriginal Voices 	First Nations
+CHFA-FM 	90.1 FM 	Edmonton 	Ici Radio-Canada Premiere 	public news/talk (French)
+CBX-FM 	90.9 FM 	Edmonton 	CBC Radio 2 	public music
+CHBN-FM 	91.7 FM 	Edmonton 	Rogers Communications 	CHR
+CKNG-FM 	92.5 FM 	Edmonton 	Corus Entertainment 	Hot adult contemporary
+CBX-FM-2 	93.9 FM 	Edmonton 	CBC Radio One 	public news/talk
+CKUA-FM 	94.9 FM 	Edmonton 	CKUA Radio Network 	public broadcasting
+CKEA-FM 	95.7 FM 	Edmonton 	Harvard Broadcasting 	adult contemporary
+CKRA-FM 	96.3 FM 	Edmonton 	Newcap Broadcasting 	oldies/classic hits
+CIRK-FM 	97.3 FM 	Edmonton 	Newcap Broadcasting 	classic rock
+CFWE-FM-4 	98.5 FM 	Edmonton 	Aboriginal Multimedia Society 	First Nations/Country
+CIUP-FM 	99.3 FM 	Edmonton 	Jim Pattison Broadcast Group 	adult contemporary
+CFBR-FM 	100.3 FM 	Edmonton 	Bell Media Radio 	active rock
+CBCX-FM-1 	101.1 FM 	Edmonton 	Ici Musique 	public music (French)
+CKER-FM 	101.7 FM 	Edmonton 	Rogers Communications 	multilingual
+CKNO-FM 	102.3 FM 	Edmonton 	Jim Pattison Broadcast Group 	hot adult contemporary
+CHDI-FM 	102.9 FM 	Edmonton 	Rogers Communications 	modern rock
+CISN-FM 	103.9 FM 	Edmonton 	Corus Entertainment 	country
+CFMG-FM 	104.9 FM 	Edmonton 	Bell Media Radio 	soft adult contemporary
+CJRY-FM 	105.9 FM 	Edmonton 	Touch Canada Broadcasting 	Christian radio
+CJNW-FM 	107.1 FM 	Edmonton 	John Charles Yerxa (OBCI) 	rhythmic top 40

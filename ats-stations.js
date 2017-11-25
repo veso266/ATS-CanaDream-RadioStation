@@ -1,5 +1,10 @@
 //CBC Direct Station URLs: http://www.cbc.ca/radio/includes/streams.html
 //Some Canadien station URLs: http://radiovibrations.com/rsd/
+//streamon stuff:
+// http://ais.streamon.fm:8000/ais/CKDV-48k.aac --- CKDV-FM
+// http://cfis.streamon.fm:8000/cfis-48k.aac --- CFIS-FM
+// http://ais.streamon.fm:8000/ais/CKKN-48k.aac -- CKKN-FM
+
 var stations_custom = {
     "vancouver": [
         {
@@ -47,7 +52,7 @@ var stations_custom = {
         {
             name: "CBC Radio 2",
             logo: "images/kamloops/CBC_Radio_2.png",
-            url: "http://www.cbc.ca/listen/live/radio2/vancouver"
+            url: " 	http://cbc_r2_ipt.akacast.akamaistream.net/7/669/451661/v1/rc.akacast.akamaistream.net/cbc_r2_ipt"
         },
         {
             name: "Radio NL 610 AM",
@@ -78,6 +83,53 @@ var stations_custom = {
             name: "New Country 103.1",
             logo: "images/kamloops/New Country 103.1.png",
             url: "http://ice8.securenetsystems.net/CJKC?type=.flv&playSessionID=576231DA-155D-C0F3-039273366217D2CF"
+        },
+    ],
+	"princegeorge": [
+		{
+            name: "CBC Radio One - CBC Prince George",
+            logo: "images/princegeorge/CBC_RadioOne.jpg",
+            url: " 	http://cbc_r1_prg.akacast.akamaistream.net/7/966/451661/v1/rc.akacast.akamaistream.net/cbc_r1_prg"
+        },
+		{
+            name: "CBC Radio 2",
+            logo: "images/princegeorge/CBC_Radio_2.png",
+            url: " 	http://cbc_r2_ipt.akacast.akamaistream.net/7/669/451661/v1/rc.akacast.akamaistream.net/cbc_r2_ipt"
+        },
+		{
+            name: "CFURadio 88.7 FM",
+            logo: "images/princegeorge/CFURadio 88.7 FM.jpg",
+            url: "http://142.207.5.73:8001/"
+        },
+        {
+            name: "Boomer Radio",
+            logo: "images/princegeorge/Boomer Radio.png",
+            url: "http://cfis.streamon.fm:8000/cfis-48k.aac"
+        },
+        {
+            name: "94.3 The GOAT",
+            logo: "images/princegeorge/94.3 The GOAT.png",
+            url: "http://srv1.hotdogradio.com:8000/CIRX"
+        },
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "images/kamloops/Ici Radio-Canada Première.png",
+            url: "http://d2e1wsg2gpoq0n.cloudfront.net/livecf/CJRJ/playlist.m3u8"
+        },
+		{
+            name: "Country 97 FM",
+            logo: "images/princegeorge/Country 97 FM.jpg",
+            url: "http://srv1.hotdogradio.com:8000/CJCI"
+        },
+		{
+            name: "99-3 The Drive",
+            logo: "images/princegeorge/99-3 The Drive.png",
+            url: "http://ais.streamon.fm:8000/ais/CKDV-48k.aac"
+        },
+		{
+            name: "101.3 The River",
+            logo: "images/princegeorge/101.3 The River.png",
+            url: "http://ais.streamon.fm:8000/ais/CKKN-48k.aac"
         },
     ],
     "yukon": [
