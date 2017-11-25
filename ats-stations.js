@@ -72,7 +72,7 @@ var stations_custom = {
         {
             name: "97.5 The River",
             logo: "images/kamloops/97.5 The River.png",
-            url: "http://ice5.securenetsystems.net/CKRV?type=.flv&playSessionID=56F551FF-CF4C-EC25-A45342F2157F715F"
+            url: "http://ice5.securenetsystems.net/CKRV"
         },
         {
             name: "CIFM-FM Kamloops",
@@ -82,7 +82,7 @@ var stations_custom = {
 		{
             name: "New Country 103.1",
             logo: "images/kamloops/New Country 103.1.png",
-            url: "http://ice8.securenetsystems.net/CJKC?type=.flv&playSessionID=576231DA-155D-C0F3-039273366217D2CF"
+            url: "http://ice8.securenetsystems.net/CJKC"
         },
     ],
 	"princegeorge": [
