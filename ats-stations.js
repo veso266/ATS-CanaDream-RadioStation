@@ -2,6 +2,7 @@
 //Some Canadien station URLs: http://radiovibrations.com/rsd/
 //streamon stuff:
 // http://ais.streamon.fm:8000/ais/CKDV-48k.aac --- CKDV-FM
+// http://ais.streamon.fm:8000/ais/JRfm-48k.aac --- JRFM
 // http://cfis.streamon.fm:8000/cfis-48k.aac --- CFIS-FM
 // http://ais.streamon.fm:8000/ais/CKKN-48k.aac -- CKKN-FM
 // http://cjsi.streamon.fm:8000/CJSI-48k.aac -- CJSI-FM (note to self: Add to Favourites.json)
@@ -45,7 +46,7 @@ var stations_custom = {
         {
             name: "93.7 JRfm",
             logo: "images/vancouver/93.7 JRfm.png",
-            url: "http://7bvan0.akacast.akamaistream.net/7/286/177417/v1/rc.akacast.akamaistream.net/7BVAN0"
+            url: "http://ais.streamon.fm:8000/ais/JRfm-48k.aac"
         },
     ],
 	"kamloops": [
