@@ -17,6 +17,12 @@ var country_properties_canada {
         code: "ca-bc",
         relative_radius: 1.2
 	},
+	"calgary": {
+        name: "Calgary",
+        name_english: "Calgary",
+        code: "ca-ab",
+        relative_radius: 1.2
+	},
 
 };
 
@@ -28,6 +34,9 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
 	"princegeorge": {
+        relative_whitenoise: 0.95
+    },	
+	"calgary": {
         relative_whitenoise: 0.95
     },
 //CANADA
@@ -58,6 +67,13 @@ var cities_mexico = [
       "x": "-87517.5",
       "y": "85.8359",
       "z": "-99375.6"
+    },
+	  "gameName": "calgary",
+	  "realName": "Calgary",
+	  "country": "alberta",
+	  "x": "-64088.6",
+	  "y": "225.559",
+	  "z": "-74325.2"
     },
 	
 ];

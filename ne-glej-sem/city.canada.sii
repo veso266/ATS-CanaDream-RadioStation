@@ -5,7 +5,7 @@ SiiNunit
 @include "city/kamloops.sii" --- DONE
 @include "city/princegeorge.sii" --- DONE
 @include "city/edmonton.sii" --- ZVEČER
-@include "city/calgary.sii"
+@include "city/calgary.sii" --- DONE
 @include "city/princerupert.sii"
 @include "city/winnipeg.sii"
 @include "city/thunderbay.sii"
@@ -21,9 +21,9 @@ SiiNunit
 @include "city/gaspe.sii"
 @include "city/fortmcmurray.sii"
 @include "city/sudbury.sii"
-@include "city/prudhoe_bay.sii"
-@include "city/fairbanks.sii"
-@include "city/nome.sii"
+@include "city/prudhoe_bay.sii" --- NO (NOT YET in GAME)
+@include "city/fairbanks.sii" --- NO (NOT YET in GAME)
+@include "city/nome.sii" --- NO (NOT YET in GAME)
 @include "city/saguenay.sii"
 @include "city/septiles.sii"
 @include "city/labradorcity.sii"
@@ -39,42 +39,42 @@ SiiNunit
 @include "city/yarmouth.sii"
 @include "city/grandfalls.sii"
 @include "city/truro.sii"
-@include "city/sydney.sii"
-@include "city/charlotetown.sii"
+@include "city/sydney.sii" --- NO (NOT YET in GAME)
+@include "city/charlotetown.sii" --- NO (NOT YET in GAME)
 @include "city/kingston.sii"
 @include "city/maniwaki.sii"
 @include "city/parrysound.sii"
-@include "city/mattawa.sii"
+@include "city/mattawa.sii" --- NO (NOT YET in GAME)
 @include "city/saultmarie.sii"
 @include "city/hearst.sii"
 @include "city/nakina.sii"
 @include "city/iroquoisfall.sii"
 @include "city/chapleau.sii"
 @include "city/marathon.sii"
-@include "city/northbay.sii"
+@include "city/northbay.sii" --- NO (NOT YET in GAME)
 @include "city/dryden.sii"
 @include "city/fortfrances.sii"
-@include "city/osnaburgh.sii"
-@include "city/siouxlookout.sii"
-@include "city/redlake.sii"
-@include "city/fortalexand.sii"
+@include "city/osnaburgh.sii" --- NO (NOT YET in GAME)
+@include "city/siouxlookout.sii" --- NO (NOT YET in GAME)
+@include "city/redlake.sii" --- NO (NOT YET in GAME)
+@include "city/fortalexand.sii" --- NO (NOT YET in GAME)
 @include "city/virden.sii"
 @include "city/russel.sii"
-@include "city/minnedosa.sii"
+@include "city/minnedosa.sii" --- NO (NOT YET in GAME)
 @include "city/lloydminster.sii"
-@include "city/medicinehat.sii"
+@include "city/medicinehat.sii" --- NO (NOT YET in GAME)
 @include "city/maplecreek.sii"
 @include "city/jasper.sii"
 @include "city/laclabiche.sii"
 @include "city/golden.sii"
 @include "city/houstoncan.sii"
 @include "city/williamslake.sii"
-@include "city/fortstjames.sii"
+@include "city/fortstjames.sii" --- NO (NOT YET in GAME)
 @include "city/fredericton.sii"
-@include "city/caraquet.sii"
+@include "city/caraquet.sii" --- NO (NOT YET in GAME)
 @include "city/rdl.sii"
-@include "city/stgeorge.sii"
-@include "city/hornepayne.sii"
+@include "city/stgeorge.sii" --- NO (NOT YET in GAME)
+@include "city/hornepayne.sii" --- NO (NOT YET in GAME)
 @include "city/kindersley.sii"
 @include "city/dawsoncreek.sii"
 @include "city/fortnelson.sii"
@@ -83,13 +83,13 @@ SiiNunit
 @include "city/fortsimpson.sii"
 @include "city/deaselake.sii"
 @include "city/highlevel.sii"
-@include "city/natashquan.sii"
-@include "city/havrestpier.sii"
-@include "city/latabatiere.sii"
-@include "city/blancsablon.sii"
-@include "city/porthopesimp.sii"
-@include "city/cartwright.sii"
-@include "city/hapvalgoobay.sii"
-@include "city/churchillfal.sii"
+@include "city/natashquan.sii" --- NO (NOT YET in GAME)
+@include "city/havrestpier.sii" --- NO (NOT YET in GAME)
+@include "city/latabatiere.sii" --- NO (NOT YET in GAME)
+@include "city/blancsablon.sii" --- NO (NOT YET in GAME)
+@include "city/porthopesimp.sii" --- NO (NOT YET in GAME)
+@include "city/cartwright.sii" --- NO (NOT YET in GAME)
+@include "city/hapvalgoobay.sii" --- NO (NOT YET in GAME)
+@include "city/churchillfal.sii" --- NO (NOT YET in GAME)
 
 }

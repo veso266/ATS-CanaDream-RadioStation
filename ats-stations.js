@@ -4,6 +4,11 @@
 // http://ais.streamon.fm:8000/ais/CKDV-48k.aac --- CKDV-FM
 // http://cfis.streamon.fm:8000/cfis-48k.aac --- CFIS-FM
 // http://ais.streamon.fm:8000/ais/CKKN-48k.aac -- CKKN-FM
+// http://cjsi.streamon.fm:8000/CJSI-48k.aac -- CJSI-FM
+// http://cfex.streamon.fm:8000/CFEX-48k.aac -- CJFEX-FM
+// http://ckua.streamon.fm:8000/CKUA-48k.aac -- CKUA-FM
+// http://ais.streamon.fm:8000/ais/CKWD-48k.aac -- CKWD
+// http://ais.streamon.fm:8000/ais/CKCE-48k.aac -- CKCE-FM
 
 var stations_custom = {
     "vancouver": [
@@ -52,7 +57,7 @@ var stations_custom = {
         {
             name: "CBC Radio 2",
             logo: "images/kamloops/CBC_Radio_2.png",
-            url: " 	http://cbc_r2_ipt.akacast.akamaistream.net/7/669/451661/v1/rc.akacast.akamaistream.net/cbc_r2_ipt"
+            url: "http://cbc_r2_ipt.akacast.akamaistream.net/7/669/451661/v1/rc.akacast.akamaistream.net/cbc_r2_ipt"
         },
         {
             name: "Radio NL 610 AM",
@@ -94,7 +99,7 @@ var stations_custom = {
 		{
             name: "CBC Radio 2",
             logo: "images/princegeorge/CBC_Radio_2.png",
-            url: " 	http://cbc_r2_ipt.akacast.akamaistream.net/7/669/451661/v1/rc.akacast.akamaistream.net/cbc_r2_ipt"
+            url: "http://cbc_r2_ipt.akacast.akamaistream.net/7/669/451661/v1/rc.akacast.akamaistream.net/cbc_r2_ipt"
         },
 		{
             name: "CFURadio 88.7 FM",
@@ -131,6 +136,101 @@ var stations_custom = {
             logo: "images/princegeorge/101.3 The River.png",
             url: "http://ais.streamon.fm:8000/ais/CKKN-48k.aac"
         },
+	],
+	
+	
+	"calgary": [
+		{
+            name: "CBC Radio One - CBC Calgary",
+            logo: "images/princegeorge/CBC_RadioOne.jpg",
+            url: "http://cbc_r1_cgy.akacast.akamaistream.net/7/298/451661/v1/rc.akacast.akamaistream.net/cbc_r1_cgy"
+        },
+		{
+            name: "CBC Radio 2",
+            logo: "images/princegeorge/CBC_Radio_2.png",
+            url: "http://cbc_r2_ipt.akacast.akamaistream.net/7/669/451661/v1/rc.akacast.akamaistream.net/cbc_r2_ipt"
+        },
+		{
+            name: "Shine FM",
+            logo: "images/calgary/Shine FM.jpg",
+            url: "http://cjsi.streamon.fm:8000/CJSI-48k.aac"
+        },		
+		{
+            name: "Ici Musique Alberta",
+            logo: "images/calgary/Ici Musique Calgary.png",
+            url: "http://sp01radio.akacast.akamaistream.net/7/481/177425/v1/rc.akacast.akamaistream.net/SP01RADIO"
+        },		
+		{
+            name: "90.3 Amp Radio",
+            logo: "images/calgary/90.3 Amp Radio.png",
+            url: "http://newcap.leanstream.co/CKMPFM"
+        },		
+		{
+            name: "CJSW",
+            logo: "images/calgary/CJSW.png",
+            url: "http://stream.cjsw.com/cjsw.mp3"
+        },		
+		{
+            name: "X92.9",
+            logo: "images/calgary/CJSW.png",
+            url: "http://cfex.streamon.fm:8000/CFEX-48k.aac"
+        },		
+		{
+            name: "CKUA Radio Network",
+            logo: "images/calgary/CKUA Radio Network.png",
+            url: "http://ckua.streamon.fm:8000/CKUA-48k.aac"
+        },		
+		{
+            name: "Fairchild Radio",
+            logo: "images/calgary/Fairchild Radio.png",
+            url: "http://icecast01.eseenet.com:8000/am1430"
+        },		
+		{
+            name: "Wild 95.3",
+            logo: "images/calgary/Wild 95.3.png",
+            url: "http://ais.streamon.fm:8000/ais/CKWD-48k.aac"
+        },		
+		{
+            name: "Kiss 95.9",
+            logo: "images/calgary/Kiss 95.9.png",
+            url: "http://cal959.akacast.akamaistream.net/7/300/80900/v1/rogers.akacast.akamaistream.net/cal959"
+        },		
+		{
+            name: "Soft Rock 97.7",
+            logo: "images/calgary/Soft Rock 97.7.jpg",
+            url: "http://rawlco.leanstream.co/CHUPFM-MP3"
+        },		
+		{
+            name: "101.5 Kool FM",
+            logo: "images/calgary/101.5 Kool FM.png",
+            url: "http://ais.streamon.fm:8000/ais/CKCE-48k.aac"
+        },		
+		{
+            name: "XL103",
+            logo: "images/calgary/XL103.png",
+            url: "http://newcap.leanstream.co/CFXLFM-MP3"
+        },		
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "images/kamloops/Ici Radio-Canada Première.png",
+            url: "http://d2e1wsg2gpoq0n.cloudfront.net/livecf/CJRJ/playlist.m3u8"
+        },		
+		{
+            name: "Country 105",
+            logo: "images/kamloops/Country 105.png",
+            url: "http://live.leanstream.co/CKRYFM"
+        },		
+		{
+            name: "RED FM Calgary",
+            logo: "images/kamloops/RED FM Calgary.jpg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CKYRFM.mp3"
+        },		
+		{
+            name: "Q107",
+            logo: "images/kamloops/Q107",
+            url: "http://live.leanstream.co/CILQFM-MP3"
+        },
+		 	
     ],
     "yukon": [
         {
