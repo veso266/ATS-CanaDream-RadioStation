@@ -2,19 +2,19 @@ var country_properties_canada {
 	"vancouver": {
         name: "Vancouver",
         name_english: "Vancouver",
-        code: "ca-va",
+        code: "ca-bc",
         relative_radius: 1.2
 	},
 	"kamloops": {
         name: "Kamloops",
         name_english: "Kamloops",
-        code: "ca-ka",
+        code: "ca-bc",
         relative_radius: 1.2
 	},
 	"princegeorge": {
         name: "Prince George",
         name_english: "Prince George",
-        code: "ca-pg",
+        code: "ca-bc",
         relative_radius: 1.2
 	},
 
