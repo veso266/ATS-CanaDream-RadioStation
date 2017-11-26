@@ -1,0 +1,4 @@
+CFPR 	860 AM 	Prince Rupert 	CBC Radio One 	public news/talk --- DONE
+CHTK 	99.1 FM 	Prince Rupert 	Bell Media 	adult contemporary --- iHeart GEO Blocked
+CIAJ-FM 	100.7 FM 	Prince Rupert 	Christian Family Inspirational Radio Ministries 	Christian radio --- NO STREAM
+CJFW-FM-2 	101.9 FM 	Prince Rupert 	Bell Media 	country iHeart GEO Blocked

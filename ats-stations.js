@@ -332,21 +332,28 @@ var stations_custom = {
         },		
 		{
             name: "Country 105",
-            logo: "images/kamloops/Country 105.png",
+            logo: "images/calgary/Country 105.png",
             url: "http://live.leanstream.co/CKRYFM"
         },		
 		{
             name: "RED FM Calgary",
-            logo: "images/kamloops/RED FM Calgary.jpg",
+            logo: "images/calgary/RED FM Calgary.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CKYRFM.mp3"
         },		
 		{
             name: "Q107",
-            logo: "images/kamloops/Q107",
+            logo: "images/calgary/Q107.png",
             url: "http://live.leanstream.co/CILQFM-MP3"
         },
 		 	
     ],
+	"princerupert": [
+        {
+            name: "CBC Radio One",
+            logo: "images/princerupert/CBC Radio One 860AM.png",
+            url: "http://cbc_r1_prg.akacast.akamaistream.net/7/966/451661/v1/rc.akacast.akamaistream.net/cbc_r1_prg"
+        },
+	],
     "yukon": [
         {
             name: "CBC Radio One - CBC North",

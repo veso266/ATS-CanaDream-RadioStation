@@ -28,13 +28,19 @@ var country_properties_canada {
         name_english: "Calgary",
         code: "ca-ab",
         relative_radius: 1.4
+	},	
+	"princerupert": {
+        name: "Prince Rupert",
+        name_english: "Prince Rupert",
+        code: "ca-bc",
+        relative_radius: 1.0
 	},
 
 };
 
 var city_properties_canada = {
 	"vancouver": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 7.0
     },
 	"kamloops": {
         relative_whitenoise: 0.95
@@ -46,6 +52,9 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },	
 	"edmonton": {
+        relative_whitenoise: 0.95
+    },	
+	"princerupert": {
         relative_whitenoise: 0.95
     },
 //CANADA
@@ -92,6 +101,14 @@ var cities_canada = [
 	  "x": "-64088.6",
 	  "y": "225.559",
 	  "z": "-74325.2"
+    },
+	{
+      "gameName": "princerupert",
+      "realName": "Prince Rupert",
+      "country": "britcolumb",
+      "x": "-108895",
+      "y": "88",
+      "z": "-107909"
     },
 	
 ];
