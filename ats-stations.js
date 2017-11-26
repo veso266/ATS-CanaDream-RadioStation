@@ -1,5 +1,6 @@
 //CBC Direct Station URLs: http://www.cbc.ca/radio/includes/streams.html
 //Some Canadien station URLs: http://radiovibrations.com/rsd/
+//Streema: http://streema.com/
 //streamon stuff:
 // http://ais.streamon.fm:8000/ais/CKDV-48k.aac --- CKDV-FM
 // http://ais.streamon.fm:8000/ais/JRfm-48k.aac --- JRFM
@@ -10,6 +11,9 @@
 // http://ckua.streamon.fm:8000/CKUA-48k.aac -- CKUA-FM
 // http://ais.streamon.fm:8000/ais/CKWD-48k.aac -- CKWD
 // http://ais.streamon.fm:8000/ais/CKCE-48k.aac -- CKCE-FM
+// http://cjca.streamon.fm:8000/CJCA-48k.aac -- CJCA
+// http://cjsr.streamon.fm:8000/CJSR-48k.aac -- CJSR-FM
+// http://ckea.streamon.fm:8000/CKEA-48k.aac -- CKEA-FM
 
 var stations_custom = {
     "vancouver": [
@@ -21,7 +25,7 @@ var stations_custom = {
         {
             name: "CBC Radio 2 Vancouver",
             logo: "images/vancouver/CBC_Radio_2.png",
-            url: " 	http://cbc_r2_vcr.akacast.akamaistream.net/7/773/451661/v1/rc.akacast.akamaistream.net/cbc_r2_vcr"
+            url: "http://cbc_r2_vcr.akacast.akamaistream.net/7/773/451661/v1/rc.akacast.akamaistream.net/cbc_r2_vcr"
         },
         {
             name: "AM 730",
@@ -95,7 +99,7 @@ var stations_custom = {
 		{
             name: "CBC Radio One - CBC Prince George",
             logo: "images/princegeorge/CBC_RadioOne.jpg",
-            url: " 	http://cbc_r1_prg.akacast.akamaistream.net/7/966/451661/v1/rc.akacast.akamaistream.net/cbc_r1_prg"
+            url: "http://cbc_r1_prg.akacast.akamaistream.net/7/966/451661/v1/rc.akacast.akamaistream.net/cbc_r1_prg"
         },
 		{
             name: "CBC Radio 2",
@@ -138,8 +142,118 @@ var stations_custom = {
             url: "http://ais.streamon.fm:8000/ais/CKKN-48k.aac"
         },
 	],
-	
-	
+	"edmonton": [
+		{
+            name: "CBC Radio One - CBC Edmonton",
+            logo: "images/princegeorge/CBC_RadioOne.jpg",
+            url: "http://cbc_r1_edm.akacast.akamaistream.net/7/904/451661/v1/rc.akacast.akamaistream.net/cbc_r1_edm"
+        },		
+		{
+            name: "CBC Radio 2 CBC Edmonton",
+            logo: "images/princegeorge/CBC_Radio_2.png",
+            url: "http://cbc_r2_edm.akacast.akamaistream.net/7/40/451661/v1/rc.akacast.akamaistream.net/cbc_r2_edm"
+        },		
+		{
+            name: "CBC Radio 2 CBC Edmonton",
+            logo: "images/princegeorge/CBC_Radio_2.png",
+            url: "http://cbc_r2_edm.akacast.akamaistream.net/7/40/451661/v1/rc.akacast.akamaistream.net/cbc_r2_edm"
+        },
+		{
+            name: "Ici Musique Edmonton",
+            logo: "images/calgary/Ici Musique Calgary.png",
+            url: "http://sp01radio.akacast.akamaistream.net/7/481/177425/v1/rc.akacast.akamaistream.net/SP01RADIO"
+        },	
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "images/kamloops/Ici Radio-Canada Première.png",
+            url: "http://d2e1wsg2gpoq0n.cloudfront.net/livecf/CJRJ/playlist.m3u8"
+        },
+		{
+            name: "CKUA Radio Network",
+            logo: "images/calgary/CKUA Radio Network.png",
+            url: "http://ckua.streamon.fm:8000/CKUA-48k.aac"
+        },
+		{
+            name: "630 CHED",
+            logo: "images/edmonton/630 CHED.png",
+            url: "http://live.leanstream.co/CHEDAM-MP3"
+        },		
+		{
+            name: "iNews880",
+            logo: "images/edmonton/iNews880.png",
+            url: "http://live.leanstream.co/CHQTAM-MP3"
+        },		
+		{
+            name: "AM930 The Light",
+            logo: "images/edmonton/AM930 The Light.png",
+            url: "http://cjca.streamon.fm:8000/CJCA-48k.aac"
+        },
+		{
+            name: "TSN 1260 Edmonton",
+            logo: "images/edmonton/TSN 1260 Edmonton.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAM.mp3"
+        },		
+		{
+            name: "CJSR FM88",
+            logo: "images/edmonton/CJSR FM88.png",
+            url: "http://cjsr.streamon.fm:8000/CJSR-48k.aac"
+        },		
+		{
+            name: "Kiss 91.7",
+            logo: "images/edmonton/Kiss 91.7.png",
+            url: "http://edm917.akacast.akamaistream.net/7/518/118520/v1/rogers.akacast.akamaistream.net/edm917"
+        },
+		{
+            name: "92.5 Fresh Radio",
+            logo: "images/edmonton/92.5 Fresh Radio.png",
+            url: "http://live.leanstream.co/CKNGFM-MP3"
+        },		
+		{
+            name: "95.7 Cruz FM",
+            logo: "images/edmonton/95.7 Cruz FM.png",
+            url: "http://ckea.streamon.fm:8000/CKEA-48k.aac"
+        },		
+		{
+            name: "Capital 96.3",
+            logo: "images/edmonton/Capital 96.3.png",
+            url: "http://newcap.leanstream.co/CKRAFM-MP3"
+        },		
+		{
+            name: "K-97",
+            logo: "images/edmonton/K-97.png",
+            url: "http://newcap.leanstream.co/CIRKFM-MP3"
+        },		
+		{
+            name: "CFWE",
+            logo: "images/edmonton/CFWE.jpg",
+            url: "http://live.leanstream.co/CFWEFM"
+        },		
+		{
+            name: "Up! 99.3",
+            logo: "images/edmonton/Up99.3.png",
+            url: "http://ais.streamon.fm:8000/ais/CIUP-48k.aac"
+        },		
+		{
+            name: "102.3 Now! Radio",
+            logo: "images/edmonton/102.3 Now! Radio.png",
+            url: "http://ckno.streamon.fm:8000/CKNO-96k.aac"
+        },		{
+            name: "103.9 CISN Country",
+            logo: "images/edmonton/103.9 CISN Country.png",
+            url: "http://live.leanstream.co/CISNFM-MP3"
+        },		
+		{
+            name: "Shine FM Edmonton",
+            logo: "images/calgary/Shine_FM_Edmonton.png",
+            url: "http://cjsi.streamon.fm:8000/CJSI-48k.aac"
+        },	            
+		{
+			name: "Hot 107 FM",
+            logo: "images/calgary/Hot 107 FM.png",
+            url: "http://cjnw.streamon.fm:8000/CJNW-48k.aac"
+        },	
+		
+	],
 	"calgary": [
 		{
             name: "CBC Radio One - CBC Calgary",

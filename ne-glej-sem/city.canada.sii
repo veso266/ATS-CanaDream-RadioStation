@@ -4,7 +4,7 @@ SiiNunit
 @include "city/vancouver.sii" --- DONE
 @include "city/kamloops.sii" --- DONE
 @include "city/princegeorge.sii" --- DONE
-@include "city/edmonton.sii" --- ZVEČER
+@include "city/edmonton.sii" --- DONE
 @include "city/calgary.sii" --- DONE
 @include "city/princerupert.sii"
 @include "city/winnipeg.sii"

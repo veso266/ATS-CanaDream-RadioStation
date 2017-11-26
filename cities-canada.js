@@ -17,11 +17,17 @@ var country_properties_canada {
         code: "ca-bc",
         relative_radius: 1.2
 	},
+	"edmonton": {
+        name: "Edmonton",
+        name_english: "Edmonton",
+        code: "ca-ab",
+        relative_radius: 1.4
+	},
 	"calgary": {
         name: "Calgary",
         name_english: "Calgary",
         code: "ca-ab",
-        relative_radius: 1.2
+        relative_radius: 1.4
 	},
 
 };
@@ -38,12 +44,15 @@ var city_properties_canada = {
     },	
 	"calgary": {
         relative_whitenoise: 0.95
+    },	
+	"edmonton": {
+        relative_whitenoise: 0.95
     },
 //CANADA
 };
 
 
-var cities_mexico = [
+var cities_canada = [
 	{
       "gameName": "vancouver",
       "realName": "Vancouver",
@@ -68,6 +77,15 @@ var cities_mexico = [
       "y": "85.8359",
       "z": "-99375.6"
     },
+	{
+      "gameName": "edmonton",
+      "realName": "Edmonton",
+      "country": "alberta",
+      "x": "-58262",
+      "y": "160.844",
+      "z": "-89326.9"
+    },
+	{
 	  "gameName": "calgary",
 	  "realName": "Calgary",
 	  "country": "alberta",
