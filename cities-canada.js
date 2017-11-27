@@ -1,46 +1,54 @@
 var country_properties_canada {
 	"vancouver": {
-        name: "Vancouver",
-        name_english: "Vancouver",
-        code: "ca-bc",
-        relative_radius: 1.2
+        	name: "Vancouver",
+        	name_english: "Vancouver",
+        	code: "ca-bc",
+        	relative_radius: 1.2
 	},
 	"kamloops": {
-        name: "Kamloops",
-        name_english: "Kamloops",
-        code: "ca-bc",
-        relative_radius: 1.2
+        	name: "Kamloops",
+        	name_english: "Kamloops",
+        	code: "ca-bc",
+        	relative_radius: 1.2
 	},
 	"princegeorge": {
-        name: "Prince George",
-        name_english: "Prince George",
-        code: "ca-bc",
-        relative_radius: 1.2
+        	name: "Prince George",
+        	name_english: "Prince George",
+        	code: "ca-bc",
+        	relative_radius: 1.2
 	},
 	"edmonton": {
-        name: "Edmonton",
-        name_english: "Edmonton",
-        code: "ca-ab",
-        relative_radius: 1.4
+        	name: "Edmonton",
+        	name_english: "Edmonton",
+        	code: "ca-ab",
+        	relative_radius: 1.4
 	},
 	"calgary": {
-        name: "Calgary",
-        name_english: "Calgary",
-        code: "ca-ab",
-        relative_radius: 1.4
+        	name: "Calgary",
+        	name_english: "Calgary",
+        	code: "ca-ab",
+        	relative_radius: 1.4
 	},	
 	"princerupert": {
-        name: "Prince Rupert",
-        name_english: "Prince Rupert",
-        code: "ca-bc",
-        relative_radius: 1.0
+        	name: "Prince Rupert",
+        	name_english: "Prince Rupert",
+        	code: "ca-bc",
+        	relative_radius: 1.0
 	},
+	"thunderbay": {
+        	name: "Thunder Bay",
+        	name_english: "Thunder Bay",
+        	code: "ca-on",
+        	relative_radius: 1.4
+	},
+		
+		
 
 };
 
 var city_properties_canada = {
 	"vancouver": {
-        relative_whitenoise: 7.0
+        relative_whitenoise: 5.0
     },
 	"kamloops": {
         relative_whitenoise: 0.95
@@ -55,6 +63,9 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },	
 	"princerupert": {
+        relative_whitenoise: 0.95
+    },
+	"thunderbay": {
         relative_whitenoise: 0.95
     },
 //CANADA
@@ -109,6 +120,16 @@ var cities_canada = [
       "x": "-108895",
       "y": "88",
       "z": "-107909"
+    },
+	
+	
+    {
+      "gameName": "thunderbay",
+      "realName": "Thunder Bay",
+      "country": "ontario",
+      "x": "25157.2",
+      "y": "100.648",
+      "z": "-54438.7"
     },
 	
 ];
