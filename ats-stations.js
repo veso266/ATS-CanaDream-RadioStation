@@ -361,27 +361,27 @@ var stations_custom = {
               name: "CBC Radio One CBC Thunder Bay",
               logo: "images/thunderbay/CBC Radio One.png",
               url: "http://cbc_r1_tba.akacast.akamaistream.net/7/245/451661/v1/rc.akacast.akamaistream.net/cbc_r1_tba"
-             },
-             {
+            },
+            {
               name: "Coutnry 105",
-              logo: "images/thunderbay/Country 105.png",
+              logo: "images/thunderbay/Coutnry 105.png",
               url: "http://cktg.streamon.fm:8000/CKTG-48k.aac"
-             },
-	     {
+            },
+			{
               name: "91.5 CKPR",
-              logo: "images/thunderbay/91.5 CKPR.png",
+              logo: "images/thunderbay/91.5 CKPR.jpg",
               url: "http://ckpr.streamon.fm:8000/CKPR-48k.aac"
              },
-	     {
+			{
               name: "LU Radio",
               logo: "images/thunderbay/LU Radio.png",
               url: "http://luradio-server.lakeheadu.ca:8000/stereo128.mp3"
-             },
-	     {
+            },
+			{
               name: "UCB Canada",
               logo: "images/thunderbay/UCB Canada.png",
               url: "http://s7.viastreaming.net:8930/;stream.mp3"
-             },
+            },
 		
 	],	
     "yukon": [
