@@ -42,7 +42,12 @@ var country_properties_canada {
         	relative_radius: 1.4
 	},
 		
-		
+		"montreal": {
+        	name: "Montréal",
+        	name_english: "Montreal",
+        	code: "ca-qc",
+        	relative_radius: 1.6
+	},
 
 };
 
@@ -66,6 +71,9 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
 	"thunderbay": {
+        relative_whitenoise: 0.95
+    },	
+	"montreal": {
         relative_whitenoise: 0.95
     },
 //CANADA
@@ -130,6 +138,15 @@ var cities_canada = [
       "x": "25157.2",
       "y": "100.648",
       "z": "-54438.7"
+    },
+	
+	{
+      "gameName": "montreal",
+      "realName": "Montreal",
+      "country": "quebec",
+      "x": "88078.1",
+      "y": "46.8359",
+      "z": "-48357.2"
     },
 	
 ];

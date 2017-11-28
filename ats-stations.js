@@ -353,7 +353,7 @@ var stations_custom = {
             logo: "images/princerupert/CBC Radio One 860AM.png",
             url: "http://cbc_r1_prg.akacast.akamaistream.net/7/966/451661/v1/rc.akacast.akamaistream.net/cbc_r1_prg"
         },
-     ],
+     ],	
 	
 	
 	"thunderbay": [
@@ -383,7 +383,29 @@ var stations_custom = {
               url: "http://s7.viastreaming.net:8930/;stream.mp3"
             },
 		
-	],	
+	],
+	 "montreal": [
+        {
+            name: "CBC Radio One CBC Montreal",
+            logo: "images/montreal/CBC Radio One CBC Montreal.svg",
+            url: "http://cbc_r1_mtl.akacast.akamaistream.net/7/35/451661/v1/rc.akacast.akamaistream.net/cbc_r1_mtl"
+        },        
+		{
+            name: "CBC Radio 2 CBC Montreal",
+            logo: "images/montreal/CBC Radio 2.png",
+            url: "http://cbc_r2_ipt.akacast.akamaistream.net/7/669/451661/v1/rc.akacast.akamaistream.net/cbc_r2_ipt"
+        },		
+		{
+            name: "TSN 690 Montréal",
+            logo: "images/montreal/TSN 690 Montreal.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMAAC.aac"
+        },		
+		{
+            name: "CJAD 800/Newstalk 800 CJAD",
+            logo: "images/montreal/CJAD 800.jpg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CJADAMAAC.aac"
+        },
+    ],	
     "yukon": [
         {
             name: "CBC Radio One - CBC North",
