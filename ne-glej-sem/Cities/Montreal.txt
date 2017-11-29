@@ -3,7 +3,7 @@ CKAC 	730 AM 	Montreal 	Cogeco 	traffic information (French) -- NO
 CJAD 	800 AM 	Montreal 	Bell Media Radio 	news/talk (English) --- GEO Locked (Found Alternative stream) --- DONE
 CINF 	850 AM 	Montreal 	Bell Media Radio 	news/talk (French) --- It ceased operations at exactly 7:02 p.m. ET on January 29, 2010 :(
 CINW 	900 AM 	Montreal 	Cogeco 	news/talk (English) --- NO
-CHRF 	980 AM 	Montreal 	Evanov Communications 	LGBT-oriented hot adult contemporary/CHR
+CHRF 	980 AM 	Montreal 	Evanov Communications 	LGBT-oriented hot adult contemporary/CHR --- GEO Locked (URL: http://ice3.securenetsystems.net:80/CHRF)
 CFOX 	1010 AM 	Montreal 	Cogeco 	traffic information (English) --- NO
 CJMS 	1040 AM 	Montreal 	Alexandre Azoulay 	country (French) --- DONE
 CFMB 	1280 AM 	Montreal 	CFMB Ltd. 	multilingual --- NO
@@ -12,23 +12,23 @@ CHOU 	1450 AM 	Montreal 	Radio Moyen-Orient 	multilingual --- NO
 CHRN 	1610 AM 	Montreal 	Radio Humsafar Inc. 	multilingual --- NO
 CKZW 	1650 AM 	Montreal 	Radio Shalom 	Jewish community radio --- NO
 CJLO 	1690 AM 	Montreal 	Concordia University 	campus radio --- NO
-CHDO-FM 	88.1 FM 	Montreal 	Aéroports de Montréal 	Montréal-Pierre Elliott Trudeau International Airport tourist information
+CHDO-FM 	88.1 FM 	Montreal 	Aéroports de Montréal 	Montréal-Pierre Elliott Trudeau International Airport tourist information --- NO
 CBME-FM 	88.5 FM 	Montreal 	CBC Radio One 	public news/talk --- DONE
 CISM-FM 	89.3 FM 	Montreal 	Université de Montréal 	campus radio --- NO
 CKUT-FM 	90.3 FM 	Montreal 	McGill University 	campus radio --- NO
 CIRA-FM 	91.3 FM 	Montreal 	Radio Ville-Marie 	Christian radio (French) 
-CKLX-FM 	91.9 FM 	Montreal 	RNC Media 	sports (French)
+CKLX-FM 	91.9 FM 	Montreal 	RNC Media 	sports (French) --- DONE
 CKBE-FM 	92.5 FM 	Montreal 	Cogeco 	adult contemporary (English) --- NO
 CBM-FM 	93.5 FM 	Montreal 	CBC Radio 2 	public music ---- DONE
 CKMF-FM 	94.3 FM 	Montreal 	Énergie (Bell Media) 	contemporary hit radio (French) --- GEO Locked (Found Alternative stream) --- DONE
 CBF-FM 	95.1 FM 	Montreal 	Ici Radio-Canada Premiere 	public news/talk (French) --- NO
-CJFM-FM 	95.9 FM 	Montreal 	Virgin Radio (Bell Media) 	hot adult contemporary (English) --- GEO Locked
+CJFM-FM 	95.9 FM 	Montreal 	Virgin Radio (Bell Media) 	hot adult contemporary (English) --- GEO Locked (Found Alternative Stream) --- DONE
 CKLM-FM 	96.5 FM 	Montreal 	Bell Media Radio (Boom FM) 	oldies (French) --- GEO Locked
-CKOI-FM 	96.9 FM 	Montreal 	Cogeco (CKOI) 	contemporary hit radio (French)
+CKOI-FM 	96.9 FM 	Montreal 	Cogeco (CKOI) 	contemporary hit radio (French) --- DONE
 CHOM-FM 	97.7 FM 	Montreal 	Bell Media Radio 	mainstream rock (English) --- GEO Locked
 CJPX-FM 	99.5 FM 	Montreal 	Radio-Classique Montréal 	classical music (French)
-CBFX-FM 	100.7 FM 	Montreal 	Ici Musique 	public music (French)
-CIBL-FM 	101.5 FM 	Montreal 	Radio communautaire francophone de Montréal 	community radio (French)
+CBFX-FM 	100.7 FM 	Montreal 	Ici Musique 	public music (French) --- DONE
+CIBL-FM 	101.5 FM 	Montreal 	Radio communautaire francophone de Montréal 	community radio (French) --- DONE
 CINQ-FM 	102.3 FM 	Montreal 	Radio Centre-Ville Saint-Louis 	multilingual --- NO 
 CILO-FM 	102.9 FM 	Montreal 	AGNI Communications Inc. 	multilingual --- NO
 CKDG-FM 	105.1 FM 	Montreal 	John Daperis 	community radio (multilingual) --- NO

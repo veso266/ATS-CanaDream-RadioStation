@@ -409,15 +409,40 @@ var stations_custom = {
             logo: "images/montreal/CJAD 800.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CJADAMAAC.aac"
         },
-	{
+		{
             name: "CJMS Le 1040 AM",
-            logo: "https://upload.wikimedia.org/wikipedia/en/8/80/CJMS2014.PNG",
+            logo: "images/montreal/CJMS Le 1040 AM.PNG",
             url: "http://cjms1040.ca:8860/;stream.mp3"
         },
-	{
+		{
             name: "Radio Énergie 94.3",
-            logo: "https://pbs.twimg.com/profile_images/768423319007789056/abR53rfa.jpg",
+            logo: "images/montreal/Radio Énergie 94.3.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CKMFFMAAC_SC"
+        },			
+		{
+            name: "Virgin Radio",
+            logo: "images/montreal/Virgin Radio Montreal.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CJFMFMAAC_SC"
+        },	 		
+		{
+            name: "91.9 Sports",
+            logo: "images/montreal/91.9 Sports.jpg",
+            url: "http://icecast-cklx.rncm.ca/cklx.mp3"
+        },	 		
+		{
+            name: "CKOI 96.9",
+            logo: "images/montreal/CKOI 96.9.png",
+            url: "http://icecast.cogecomedia.com:8000/ckoi.mp3"
+        },	 		
+		{
+            name: "Ici Musique",
+            logo: "images/montreal/Ici Musique.jpg",
+            url: "http://7QMTL0.akacast.akamaistream.net:80/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0"
+        },	 		
+		{
+            name: "CIBL 101.5 | La radio indépendante de Montréal",
+            logo: "images/montreal/CIBL 101.5.PNG",
+            url: "http://stream02.ustream.ca/cibl128.mp3"
         },	 
 		 
     ],	
