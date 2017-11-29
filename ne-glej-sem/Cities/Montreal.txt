@@ -20,7 +20,7 @@ CIRA-FM 	91.3 FM 	Montreal 	Radio Ville-Marie 	Christian radio (French)
 CKLX-FM 	91.9 FM 	Montreal 	RNC Media 	sports (French)
 CKBE-FM 	92.5 FM 	Montreal 	Cogeco 	adult contemporary (English) --- NO
 CBM-FM 	93.5 FM 	Montreal 	CBC Radio 2 	public music ---- DONE
-CKMF-FM 	94.3 FM 	Montreal 	Énergie (Bell Media) 	contemporary hit radio (French) --- GEO Locked
+CKMF-FM 	94.3 FM 	Montreal 	Énergie (Bell Media) 	contemporary hit radio (French) --- GEO Locked (Found Alternative stream) --- DONE
 CBF-FM 	95.1 FM 	Montreal 	Ici Radio-Canada Premiere 	public news/talk (French) --- NO
 CJFM-FM 	95.9 FM 	Montreal 	Virgin Radio (Bell Media) 	hot adult contemporary (English) --- GEO Locked
 CKLM-FM 	96.5 FM 	Montreal 	Bell Media Radio (Boom FM) 	oldies (French) --- GEO Locked
