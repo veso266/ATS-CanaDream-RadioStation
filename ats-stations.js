@@ -414,6 +414,12 @@ var stations_custom = {
             logo: "https://upload.wikimedia.org/wikipedia/en/8/80/CJMS2014.PNG",
             url: "http://cjms1040.ca:8860/;stream.mp3"
         },
+	{
+            name: "Radio Énergie 94.3",
+            logo: "https://pbs.twimg.com/profile_images/768423319007789056/abR53rfa.jpg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CKMFFMAAC_SC"
+        },	 
+		 
     ],	
     "yukon": [
         {
