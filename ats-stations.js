@@ -15,6 +15,8 @@
 // http://cjsr.streamon.fm:8000/CJSR-48k.aac -- CJSR-FM
 // http://ckea.streamon.fm:8000/CKEA-48k.aac -- CKEA-FM
 
+//StreamTheWorld API Example: http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC.aac
+
 var stations_custom = {
     "vancouver": [
         {
