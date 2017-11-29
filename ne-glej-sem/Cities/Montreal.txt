@@ -5,7 +5,7 @@ CINF 	850 AM 	Montreal 	Bell Media Radio 	news/talk (French) --- It ceased opera
 CINW 	900 AM 	Montreal 	Cogeco 	news/talk (English)
 CHRF 	980 AM 	Montreal 	Evanov Communications 	LGBT-oriented hot adult contemporary/CHR
 CFOX 	1010 AM 	Montreal 	Cogeco 	traffic information (English)
-CJMS 	1040 AM 	Montreal 	Alexandre Azoulay 	country (French)
+CJMS 	1040 AM 	Montreal 	Alexandre Azoulay 	country (French) --- DONE
 CFMB 	1280 AM 	Montreal 	CFMB Ltd. 	multilingual
 CJWI 	1410 AM 	Montreal 	Jean-Ernest Pierre 	multilingual (French)
 CHOU 	1450 AM 	Montreal 	Radio Moyen-Orient 	multilingual
