@@ -1,5 +1,6 @@
 //CBC Direct Station URLs: http://www.cbc.ca/radio/includes/streams.html
 //Some Canadien station URLs: http://radiovibrations.com/rsd/
+//Some Canadien station URLs: http://www.surfmusic.de/country/canada.html
 //Streema: http://streema.com/
 //streamon stuff:
 // http://ais.streamon.fm:8000/ais/CKDV-48k.aac --- CKDV-FM
@@ -16,6 +17,7 @@
 // http://ckea.streamon.fm:8000/CKEA-48k.aac -- CKEA-FM
 
 //StreamTheWorld API Example: http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC.aac
+
 
 var stations_custom = {
     "vancouver": [
@@ -406,6 +408,11 @@ var stations_custom = {
             name: "CJAD 800/Newstalk 800 CJAD",
             logo: "images/montreal/CJAD 800.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CJADAMAAC.aac"
+        },
+	{
+            name: "CJMS Le 1040 AM",
+            logo: "https://upload.wikimedia.org/wikipedia/en/8/80/CJMS2014.PNG",
+            url: "http://cjms1040.ca:8860/;stream.mp3"
         },
     ],	
     "yukon": [
