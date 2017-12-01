@@ -1,0 +1,19 @@
+CKDU-FM	88.1 FM	Halifax	Dalhousie University	campus radio
+CHNS-FM	89.9 FM	Halifax	Maritime Broadcasting System	classic hits
+CBHA-FM	90.5 FM	Halifax	CBC Radio One	public news/talk
+CBAX-FM	91.5 FM	Halifax	Ici Musique	public music (French)
+CBAF-FM-5	92.3 FM	Halifax	Ici Radio-Canada Première	public news/talk (French)
+CFLT-FM	92.9 FM	Halifax	Rogers Radio	adult hits
+CJLU-FM	93.9 FM	Halifax	International Harvesters for Christ Evangelistic Association	Christian radio
+CIRP-FM	94.7 FM	Halifax	City Church Halifax	Christian radio
+CJNI-FM	95.7 FM	Halifax	Rogers Radio	news/talk/sports
+CKUL-FM	96.5 FM	Halifax	Newcap Broadcasting	hot adult contemporary
+CKRH-FM	98.5 FM	Halifax	Radio Halifax Métro	community radio (French)
+CHHU-FM	99.1 FM	Halifax	Antoine Karam (OBCI)	multilingual
+CIOO-FM	100.1 FM	Halifax	Bell Media Radio	hot adult contemporary
+CJCH-FM	101.3 FM	Halifax	Bell Media Radio	contemporary hit radio
+CHFX-FM	101.9 FM	Halifax	Maritime Broadcasting System	country
+CBH-FM	102.7 FM	Halifax	CBC Radio 2	public music
+CKHZ-FM	103.5 FM	Halifax	Evanov Communications	country
+CFRQ-FM	104.3 FM	Halifax	Newcap Broadcasting	active rock
+CKHY-FM	105.1 FM	Halifax	HFX Broadcasting	modern rock
