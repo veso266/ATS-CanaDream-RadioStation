@@ -1,19 +1,19 @@
-CKDU-FM	88.1 FM	Halifax	Dalhousie University	campus radio
-CHNS-FM	89.9 FM	Halifax	Maritime Broadcasting System	classic hits
-CBHA-FM	90.5 FM	Halifax	CBC Radio One	public news/talk
-CBAX-FM	91.5 FM	Halifax	Ici Musique	public music (French)
-CBAF-FM-5	92.3 FM	Halifax	Ici Radio-Canada Première	public news/talk (French)
-CFLT-FM	92.9 FM	Halifax	Rogers Radio	adult hits
-CJLU-FM	93.9 FM	Halifax	International Harvesters for Christ Evangelistic Association	Christian radio
-CIRP-FM	94.7 FM	Halifax	City Church Halifax	Christian radio
-CJNI-FM	95.7 FM	Halifax	Rogers Radio	news/talk/sports
-CKUL-FM	96.5 FM	Halifax	Newcap Broadcasting	hot adult contemporary
-CKRH-FM	98.5 FM	Halifax	Radio Halifax Métro	community radio (French)
-CHHU-FM	99.1 FM	Halifax	Antoine Karam (OBCI)	multilingual
-CIOO-FM	100.1 FM	Halifax	Bell Media Radio	hot adult contemporary
-CJCH-FM	101.3 FM	Halifax	Bell Media Radio	contemporary hit radio
-CHFX-FM	101.9 FM	Halifax	Maritime Broadcasting System	country
-CBH-FM	102.7 FM	Halifax	CBC Radio 2	public music
-CKHZ-FM	103.5 FM	Halifax	Evanov Communications	country
-CFRQ-FM	104.3 FM	Halifax	Newcap Broadcasting	active rock
-CKHY-FM	105.1 FM	Halifax	HFX Broadcasting	modern rock
+CKDU-FM	88.1 FM	Halifax	Dalhousie University	campus radio --- DONE
+CHNS-FM	89.9 FM	Halifax	Maritime Broadcasting System	classic hits --- DONE
+CBHA-FM	90.5 FM	Halifax	CBC Radio One	public news/talk --- DONE
+CBAX-FM	91.5 FM	Halifax	Ici Musique	public music (French) --- DONE
+CBAF-FM-5	92.3 FM	Halifax	Ici Radio-Canada Première	public news/talk (French) --- DONE
+CFLT-FM	92.9 FM	Halifax	Rogers Radio	adult hits --- GEO Blocked
+CJLU-FM	93.9 FM	Halifax	International Harvesters for Christ Evangelistic Association	Christian radio --- DONE
+CIRP-FM	94.7 FM	Halifax	City Church Halifax	Christian radio --- can't play this: http://dcunilive8-lh.akamaihd.net/i/dclive_1@136011/master.m3u8
+CJNI-FM	95.7 FM	Halifax	Rogers Radio	news/talk/sports --- can't play this: http://radio_cjni-lh.akamaihd.net/i/HAL957_1@188408/master.m3u8
+CKUL-FM	96.5 FM	Halifax	Newcap Broadcasting	hot adult contemporary --- DONE
+CKRH-FM	98.5 FM	Halifax	Radio Halifax Métro	community radio (French) --- Can't find the stream (that one doesn't work: http://public.aliant.net/asx/CKRH.asx)
+CHHU-FM	99.1 FM	Halifax	Antoine Karam (OBCI)	multilingual --- DONE
+CIOO-FM	100.1 FM	Halifax	Bell Media Radio	hot adult contemporary --- GEO Locked (Alternative stream found that should work but for some reason it doesn't: http://playerservices.streamtheworld.com/api/livestream-redirect/CIOOFMAAC_SC (Access to resource is forbidden.))
+CJCH-FM	101.3 FM	Halifax	Bell Media Radio	contemporary hit radio --- GEO Locked (Alternative stream found that should work but for some reason it doesn't: http://playerservices.streamtheworld.com/api/livestream-redirect/CJCHFMAAC_SC (Access to resource is forbidden.))
+CHFX-FM	101.9 FM	Halifax	Maritime Broadcasting System	country --- DONE
+CBH-FM	102.7 FM	Halifax	CBC Radio 2	public music --- DONE
+CKHZ-FM	103.5 FM	Halifax	Evanov Communications	country --- GEO Blocked (http://ice3.securenetsystems.net:80/CKHZ)
+CFRQ-FM	104.3 FM	Halifax	Newcap Broadcasting	active rock --- DONE
+CKHY-FM	105.1 FM	Halifax	HFX Broadcasting	modern rock --- GEO Blocked (http://ice3.securenetsystems.net:80/CKHY)

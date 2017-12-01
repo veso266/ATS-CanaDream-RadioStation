@@ -18,6 +18,7 @@
 
 //StreamTheWorld API Example: http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC.aac
 
+//NewCap Streams Example: http://newcap.leanstream.co/CKULFM-MP3 ()
 
 var stations_custom = {
     "vancouver": [
@@ -446,6 +447,63 @@ var stations_custom = {
         },	 
 		 
     ],	
+	"halifax": [
+        {
+            name: "CBC Radio One",
+            logo: "images/halifax/CBC Radio One 91.5 FM.svg",
+            url: "http://cbc_r1_hfx.akacast.akamaistream.net/7/981/451661/v1/rc.akacast.akamaistream.net/cbc_r1_hfx"
+        },        
+		{
+            name: "CBC Radio 2 Halifax",
+            logo: "images/halifax/CBC_Radio_2.png",
+            url: "http://cbc_r2_hfx.akacast.akamaistream.net/7/917/451661/v1/rc.akacast.akamaistream.net/cbc_r2_hfx"
+        },		
+		{
+            name: "Ici Musique Halifax",
+            logo: "images/calgary/Ici Musique Calgary.png",
+            url: "http://sp01radio.akacast.akamaistream.net/7/481/177425/v1/rc.akacast.akamaistream.net/SP01RADIO"
+        },	        
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "images/kamloops/Ici Radio-Canada Première.png",
+            url: "http://2emct0.akacast.akamaistream.net/7/750/177393/v1/rc.akacast.akamaistream.net/2EMCT0"
+        },		
+		{
+            name: "CKDU 88.1 FM",
+            logo: "images/halifax/CKDU 88.1 FM.png",
+            url: "http://129.173.68.178:9750/ckdu_1_on_air_high.mp3"
+        },			
+		{
+            name: "89.9 The Wave",
+            logo: "images/halifax/89.9 The Wave.gif",
+            url: "http://chns.streamon.fm:8000/CHNS-48k.aac"
+        },			
+		{
+            name: "Harvesters FM",
+            logo: "images/halifax/Harvesters FM.png",
+            url: "http://ic2.christiannetcast.com/cjlu-fm"
+        },			
+		{
+            name: "Mix 96.5",
+            logo: "images/halifax/Mix 96.5.png",
+            url: "http://newcap.leanstream.co/CKULFM-MP3"
+        },			
+		{
+            name: "Middle East Radio Halifax | CHHU-FM 99.1 FM",
+            logo: "images/halifax/Middle East Radio Halifax.png",
+            url: "http://s6.voscast.com:10604/;stream.mp3"
+        },			
+		{
+            name: "FX101.9",
+            logo: "images/halifax/FX101.9.jpg",
+            url: "http://chfx.streamon.fm:8000/CHFX-48k.aac"
+        },			
+		{
+            name: "Q104",
+            logo: "images/halifax/Q104.png",
+            url: "http://newcap.leanstream.co/CFRQFM-MP3"
+        },	
+     ],		 	
     "yukon": [
         {
             name: "CBC Radio One - CBC North",

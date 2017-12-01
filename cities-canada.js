@@ -48,7 +48,7 @@ var country_properties_canada {
         	code: "ca-qc",
         	relative_radius: 1.6
 	},
-	"montreal": {
+	"halifax": {
         	name: "Halifax",
         	name_english: "Halifax",
         	code: "ca-ns",
@@ -82,7 +82,8 @@ var city_properties_canada = {
     },	
 	"montreal": {
         relative_whitenoise: 0.95
-    },	"Halifax": {
+    },	
+	"halifax": {
         relative_whitenoise: 0.95
     },
 //CANADA
