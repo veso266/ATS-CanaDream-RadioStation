@@ -42,12 +42,19 @@ var country_properties_canada {
         	relative_radius: 1.4
 	},
 		
-		"montreal": {
+	"montreal": {
         	name: "Montréal",
         	name_english: "Montreal",
         	code: "ca-qc",
         	relative_radius: 1.6
 	},
+	"montreal": {
+        	name: "Halifax",
+        	name_english: "Halifax",
+        	code: "ca-ns",
+        	relative_radius: 1.3
+	},
+		
 
 };
 
@@ -74,6 +81,8 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },	
 	"montreal": {
+        relative_whitenoise: 0.95
+    },	"Halifax": {
         relative_whitenoise: 0.95
     },
 //CANADA
@@ -147,6 +156,14 @@ var cities_canada = [
       "x": "88078.1",
       "y": "46.8359",
       "z": "-48357.2"
+    },
+	{
+      "gameName": "halifax",
+      "realName": "Halifax",
+      "country": "novascotia",
+      "x": "126331",
+      "y": "73.2773",
+      "z": "-54553"
     },
 	
 ];
