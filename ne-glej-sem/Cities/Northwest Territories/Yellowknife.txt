@@ -1,0 +1,6 @@
+CBNY-FM 	95.3 FM 	Yellowknife 	CBC Radio 2 	public music --- DONE
+VF2136 	97.3 FM 	Yellowknife 	L'Association Franco-Culturelle de Yellowknife 	--- DONE
+CFYK-FM 	98.9 FM 	Yellowknife 	CBC Radio One 	public news/talk --- DONE
+CJCD-FM 	100.1 FM 	Yellowknife 	Vista Broadcast Group 	Adult Contemporary/Classic Hits --- DONE
+CKLB-FM 	101.9 FM 	Yellowknife 	Native Communications Society of the Northwest Territories 	First Nations community radio --- DONE
+CIVR-FM 	103.5 FM 	Yellowknife 	Société Radio Taiga 	community radio (French) --- DONE

@@ -53,6 +53,12 @@ var country_properties_canada {
         	name_english: "Halifax",
         	code: "ca-ns",
         	relative_radius: 1.3
+	},	
+	"yellowknife": {
+        	name: "Yellowknife",
+        	name_english: "Yellowknife",
+        	code: "ca-ns",
+        	relative_radius: 1.1
 	},
 		
 
@@ -85,6 +91,9 @@ var city_properties_canada = {
     },	
 	"halifax": {
         relative_whitenoise: 0.95
+    },	
+	"yellowknife": {
+        relative_whitenoise: 3.2
     },
 //CANADA
 };
@@ -165,6 +174,14 @@ var cities_canada = [
       "x": "126331",
       "y": "73.2773",
       "z": "-54553"
+    },
+	{
+      "gameName": "yellowknife",
+      "realName": "Yellowknife",
+      "country": "northterrr",
+      "x": "-46836.9",
+      "y": "88",
+      "z": "-140606"
     },
 	
 ];

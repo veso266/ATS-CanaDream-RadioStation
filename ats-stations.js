@@ -15,6 +15,7 @@
 // http://cjca.streamon.fm:8000/CJCA-48k.aac -- CJCA
 // http://cjsr.streamon.fm:8000/CJSR-48k.aac -- CJSR-FM
 // http://ckea.streamon.fm:8000/CKEA-48k.aac -- CKEA-FM
+// http://cklb.streamon.fm:8000/CKLB-48k.aac -- CKLB-FM (Note to self: Add to Favourites.json)
 
 //StreamTheWorld API Example: http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC.aac
 
@@ -503,7 +504,38 @@ var stations_custom = {
             logo: "images/halifax/Q104.png",
             url: "http://newcap.leanstream.co/CFRQFM-MP3"
         },	
-     ],		 	
+     ],			
+	 "yellowknife": [
+        {
+            name: "CBC Radio One - CBC Yellowknife",
+            logo: "images/yellowknife/CBC Radio One 98.9 FM.svg",
+            url: "http://cbc_r1_ykn.akacast.akamaistream.net/7/369/451661/v1/rc.akacast.akamaistream.net/cbc_r1_ykn"
+        }, 	        
+		{
+            name: "CBC Radio 2",
+            logo: "images/yellowknife/CBC Radio 2.svg",
+            url: " 	http://cbc_r2_ipt.akacast.akamaistream.net/7/669/451661/v1/rc.akacast.akamaistream.net/cbc_r2_ipt"
+        }, 			
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "images/yellowknife/Ici Radio-Canada Première.png",
+            url: "http://2emct0.akacast.akamaistream.net/7/750/177393/v1/rc.akacast.akamaistream.net/2EMCT0"
+        },			
+		{
+            name: "100.1 Moose FM",
+            logo: "images/yellowknife/100.1 Moose FM.png",
+            url: "http://ckfu.streamon.fm:8000/CKFU-48k.aac"
+        },		
+		{
+            name: "CKLB Radio 101.9",
+            logo: "images/yellowknife/CKLB.png",
+            url: "http://cklb.streamon.fm:8000/CKLB-48k.aac"
+        },			
+		{
+            name: "Radio Taïga",
+            logo: "images/yellowknife/CIVR.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CIVRaac.aac"
+        },	
     "yukon": [
         {
             name: "CBC Radio One - CBC North",

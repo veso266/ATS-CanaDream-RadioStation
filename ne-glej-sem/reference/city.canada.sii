@@ -10,9 +10,9 @@ SiiNunit
 @include "city/winnipeg.sii"
 @include "city/thunderbay.sii" --- DONE
 @include "city/montreal.sii" --- DONE
-@include "city/halifax.sii"
+@include "city/halifax.sii" --- DONE
 @include "city/toronto.sii"
-@include "city/yellowknife.sii"
+@include "city/yellowknife.sii" --- DONE
 @include "city/saskatoon.sii"
 @include "city/regina.sii"
 @include "city/moncton.sii"
