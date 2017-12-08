@@ -57,8 +57,8 @@ var country_properties_canada {
 	"yellowknife": {
         	name: "Yellowknife",
         	name_english: "Yellowknife",
-        	code: "ca-ns",
-        	relative_radius: 1.1
+        	code: "ca-nt",
+        	relative_radius: 1.2
 	},
 		
 
