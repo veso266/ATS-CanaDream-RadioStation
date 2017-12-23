@@ -639,7 +639,7 @@ var stations_custom = {
 		{
             name: "News Talk 980 CJME",
             logo: "images/regina/News Talk 980 CJME.png",
-            url: "rawlco.leanstream.co/CJMEAM-MP3"
+            url: "http://rawlco.leanstream.co/CJMEAM-MP3"
         },	
 		{
             name: "MBC Radio",
