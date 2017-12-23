@@ -13,7 +13,7 @@ SiiNunit
 @include "city/halifax.sii" --- DONE
 @include "city/toronto.sii"
 @include "city/yellowknife.sii" --- DONE
-@include "city/saskatoon.sii"
+@include "city/saskatoon.sii" --- DONE
 @include "city/regina.sii"
 @include "city/moncton.sii"
 @include "city/moncton1.sii"

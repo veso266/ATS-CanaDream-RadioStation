@@ -536,6 +536,74 @@ var stations_custom = {
             logo: "images/yellowknife/CIVR.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CIVRaac.aac"
         },	
+	],
+	"saskatoon": [
+        {
+            name: "CBC Radio One - CBC Saskatoon",
+            logo: "images/saskatoon/CBC Radio One 102.5 FM.svg",
+            url: "http://cbc_r1_ssk.akacast.akamaistream.net/7/842/451661/v1/rc.akacast.akamaistream.net/cbc_r1_ssk"
+        }, 	        
+		{
+            name: "CBC Radio 2",
+            logo: "images/saskatoon/CBC Radio 2.svg",
+            url: "http://cbc_r2_ipt.akacast.akamaistream.net/7/669/451661/v1/rc.akacast.akamaistream.net/cbc_r2_ipt"
+        }, 			
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "images/yellowknife/Ici Radio-Canada Première.png",
+            url: "http://2emct0.akacast.akamaistream.net/7/750/177393/v1/rc.akacast.akamaistream.net/2EMCT0"
+        },	
+		{
+            name: "Ici Musique",
+            logo: "images/montreal/Ici Musique.jpg",
+            url: "http://7QMTL0.akacast.akamaistream.net:80/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0"
+        },			
+		{
+            name: "CJWW 600",
+            logo: "images/saskatoon/CJWW 600.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CJWWAM_SC"
+        },	 		
+		{
+            name: "News Talk 650 CKOM",
+            logo: "images/saskatoon/News Talk 650 CKOM.png",
+            url: "http://rawlco.leanstream.co/CKOMAM-MP3"
+        },	 		
+		{
+            name: "90.5 FM",
+            logo: "images/saskatoon/CFCR-90.5-FM.jpg",
+            url: "http://onair.cfcr.ca/hifi.mp3"
+        },	 		
+		{
+            name: "92.9 The Bull",
+            logo: "images/saskatoon/92.9 The Bull.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CKBLFM.mp3"
+        },		
+		{
+            name: "C95",
+            logo: "images/saskatoon/C95.jpg",
+            url: "http://rawlco.leanstream.co/CFMCFM-MP3"
+        },	
+		{
+            name: "96.3 Cruz FM",
+            logo: "images/saskatoon/96.3 Cruz FM.png",
+            url: "http://cfwd.streamon.fm:8000/CFWD-48k.aac"
+        },				
+		{
+            name: "98 Cool FM",
+            logo: "images/saskatoon/98 Cool FM.jpg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CJMKFM_SC"
+        },			
+		{
+            name: "Rock 102",
+            logo: "images/saskatoon/Rock 102.pngg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WAQYFMAAC_SC"
+        },			
+		{
+            name: "MBC Radio",
+            logo: "images/saskatoon/MBC Radio.jpg",
+            url: "http://cjlr.streamon.fm:8000/CJLR-96k.aac"
+        },			
+	],		
     "yukon": [
         {
             name: "CBC Radio One - CBC North",

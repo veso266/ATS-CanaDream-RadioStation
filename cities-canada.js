@@ -59,6 +59,12 @@ var country_properties_canada {
         	name_english: "Yellowknife",
         	code: "ca-nt",
         	relative_radius: 1.2
+	},	
+	"saskatoon": {
+        	name: "Saskatoon",
+        	name_english: "Saskatoon",
+        	code: "ca-sk",
+        	relative_radius: 1.1
 	},
 		
 
@@ -94,6 +100,9 @@ var city_properties_canada = {
     },	
 	"yellowknife": {
         relative_whitenoise: 3.2
+    },	
+	"saskatoon": {
+        relative_whitenoise: 0.95
     },
 //CANADA
 };
@@ -182,6 +191,14 @@ var cities_canada = [
       "x": "-46836.9",
       "y": "88",
       "z": "-140606"
+    },
+	{
+      "gameName": "saskatoon",
+      "realName": "Saskatoon",
+      "country": "saskatchew",
+      "x": "-37439.1",
+      "y": "82.7734",
+      "z": "-77226.7"
     },
 	
 ];

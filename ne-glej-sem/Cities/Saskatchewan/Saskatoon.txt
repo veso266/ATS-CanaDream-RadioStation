@@ -1,0 +1,15 @@
+CJWW 	600 AM 	Saskatoon 	Saskatoon Media Group 	country --- DONE
+CKOM 	650 AM 	Saskatoon 	Rawlco Radio 	news/talk --- DONE
+CBKF-2 	860 AM 	Saskatoon 	Ici Radio-Canada Premiere 	public news/talk (French, formerly CFNS) --- DONE
+CKSB-FM-2 	88.7 FM 	Saskatoon 	Ici Musique 	public music (French) --- DONE
+CFCR-FM 	90.5 FM 	Saskatoon 	Community Radio Society of Saskatoon 	community radio --- DONE
+CITT-FM 	91.7 FM 	Saskatoon 	Saskatoon Visitor and Convention Bureau 	tourist information --- CAN'T FIND THE STREAM (CITT-FM’s licence was set to expire on August 31, 2014: http://www.broadcasting-history.ca/listing_and_histories/radio/citt-fm)
+CKBL-FM 	92.9 FM 	Saskatoon 	Saskatoon Media Group 	country --- DONE
+CBK-1-FM 	94.1 FM 	Saskatoon 	CBC Radio One 	public news/talk --- DONE
+CFMC-FM 	95.1 FM 	Saskatoon 	Rawlco Radio 	CHR --- DONE
+CFWD-FM 	96.3 FM 	Saskatoon 	Harvard Broadcasting 	adult hits --- DONE
+CJMK-FM 	98.3 FM 	Saskatoon 	Saskatoon Media Group 	adult contemporary --- DONE
+CFAQ-FM 	100.3 FM 	Saskatoon 	Bertor Communications 	Christian radio CAN'T FIND THE STREAM
+CJDJ-FM 	102.1 FM 	Saskatoon 	Rawlco Radio 	active rock --- DONE
+CIRN-FM 	104.1 FM 	Saskatoon 	MBC Radio 	First Nations community radio --- DONE
+CBKS-FM 	105.5 FM 	Saskatoon 	CBC Radio 2 	public music --- DONE
