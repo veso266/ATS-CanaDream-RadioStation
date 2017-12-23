@@ -1,0 +1,13 @@
+CKRM 	620 AM 	Regina 	Harvard Broadcasting 	country --- DONE
+CJME 	980 AM 	Regina 	Rawlco Radio 	news/talk --- DONE
+CKSB-FM-1 	88.9 FM 	Regina 	Ici Musique 	public music (French) --- DONE
+CJLR-FM-4 	90.3 FM 	Regina 	MBC Radio 	First Nations community radio --- DONE
+CJTR-FM 	91.3 FM 	Regina 	Radius Communications 	community radio --- DONE
+CHMX-FM 	92.1 FM 	Regina 	Harvard Broadcasting 	adult contemporary --- DONE
+CHBD-FM 	92.7 FM 	Regina 	Bell Media Radio 	country --- DONE
+CKCK-FM 	94.5 FM 	Regina 	Rawlco Radio 	adult hits --- DONE
+CBK-FM 	96.9 FM 	Regina 	CBC Radio 2 	public music --- DONE
+CBKF-FM 	97.7 FM 	Regina 	Ici Radio-Canada Premiere 	public news/talk (French) --- DONE
+CIZL-FM 	98.9 FM 	Regina 	Rawlco Radio 	hot adult contemporary --- DONE
+CBKR-FM 	102.5 FM 	Regina 	CBC Radio One 	public news/talk --- DONE
+CFWF-FM 	104.9 FM 	Regina 	Harvard Broadcasting 	active rock --- DONE

@@ -65,6 +65,12 @@ var country_properties_canada {
         	name_english: "Saskatoon",
         	code: "ca-sk",
         	relative_radius: 1.1
+	},	
+	"regina": {
+        	name: "Regina",
+        	name_english: "Regina",
+        	code: "ca-sk",
+        	relative_radius: 1.1
 	},
 		
 
@@ -102,6 +108,9 @@ var city_properties_canada = {
         relative_whitenoise: 3.2
     },	
 	"saskatoon": {
+        relative_whitenoise: 0.95
+    },	
+	"regina": {
         relative_whitenoise: 0.95
     },
 //CANADA
@@ -199,6 +208,14 @@ var cities_canada = [
       "x": "-37439.1",
       "y": "82.7734",
       "z": "-77226.7"
+    },
+	{
+      "gameName": "regina",
+      "realName": "Regina",
+      "country": "saskatchew",
+      "x": "-31901.6",
+      "y": "90.3281",
+      "z": "-68350.9"
     },
 	
 ];

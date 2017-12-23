@@ -19,7 +19,13 @@
 
 //StreamTheWorld API Example: http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC.aac
 
+//Stations from Bell Media Radio;
+//	AM: http://playerservices.streamtheworld.com/api/livestream-redirect/%station-callsign%AMAAC.aac (Example (TSN 1040): http://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC.aac)
+//	FM: http://playerservices.streamtheworld.com/api/livestream-redirect/%station-callsign%FM_SC (Example (Big Dog 92.7): http://playerservices.streamtheworld.com/api/livestream-redirect/CHBDFM_SC) 
+
 //NewCap Streams Example: http://newcap.leanstream.co/CKULFM-MP3 ()
+
+//Stations from Rawlco Radio: http://rawlco.leanstream.co/%station-callsign%FM (Example (Z99): http://rawlco.leanstream.co/CIZLFM)
 
 var stations_custom = {
     "vancouver": [
@@ -603,6 +609,78 @@ var stations_custom = {
             logo: "images/saskatoon/MBC Radio.jpg",
             url: "http://cjlr.streamon.fm:8000/CJLR-96k.aac"
         },			
+	],
+	"regina": [
+        {
+            name: "CBC Radio One - CBC Regina",
+            logo: "images/saskatoon/CBC Radio One 102.5 FM.svg",
+            url: "http://cbc_r1_reg.akacast.akamaistream.net/7/666/451661/v1/rc.akacast.akamaistream.net/cbc_r1_reg"
+        }, 	        
+		{
+            name: "CBC Radio 2",
+            logo: "images/saskatoon/CBC Radio 2.svg",
+            url: "http://cbc_r2_ipt.akacast.akamaistream.net/7/669/451661/v1/rc.akacast.akamaistream.net/cbc_r2_ipt"
+        }, 	
+		{
+            name: "Ici Radio-Canada Première",
+            logo: "images/yellowknife/Ici Radio-Canada Première.png",
+            url: "http://2emct0.akacast.akamaistream.net/7/750/177393/v1/rc.akacast.akamaistream.net/2EMCT0"
+        },	
+		{
+            name: "Ici Musique",
+            logo: "images/montreal/Ici Musique.jpg",
+            url: "http://7QMTL0.akacast.akamaistream.net:80/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0"
+        },			
+		{
+            name: "620 CKRM",
+            logo: "images/regina/620 CKRM.png",
+            url: "http://ckrm.streamon.fm:8000/CKRM-96k.aac"
+        },			
+		{
+            name: "News Talk 980 CJME",
+            logo: "images/regina/News Talk 980 CJME.png",
+            url: "rawlco.leanstream.co/CJMEAM-MP3"
+        },	
+		{
+            name: "MBC Radio",
+            logo: "images/saskatoon/MBC Radio.jpg",
+            url: "http://cjlr.streamon.fm:8000/CJLR-96k.aac"
+        },			
+		{
+            name: "CJTR-FM",
+            logo: "images/regina/CJTR-FM 91.3.png",
+            url: "http://108.178.13.122:8152/;stream.mp3"
+        },			
+		{
+            name: "My 92.1",
+            logo: "images/regina/CHMX.png",
+            url: "http://chmx.streamon.fm:8000/CHMX-96k.aac"
+        },			
+		{
+            name: "My 92.1",
+            logo: "images/regina/CHMX.png",
+            url: "http://chmx.streamon.fm:8000/CHMX-96k.aac"
+        },		
+		{
+            name: "Big Dog 92.7",
+            logo: "images/regina/Big Dog 92.7.jpg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CHBDFM_SC"
+        },			
+		{
+            name: "Jack 94.5",
+            logo: "images/regina/Jack 94.5.png",
+            url: "http://rawlco.leanstream.co/CKCKFM"
+        },			
+		{
+            name: "Jack 94.5",
+            logo: "images/regina/Jack 94.5.png",
+            url: "http://rawlco.leanstream.co/CIZLFM"
+        },			
+		{
+            name: "104.9 The Wolf",
+            logo: "images/regina/104.9 The Wolf.jpg",
+            url: "http://cfwf.streamon.fm:8000/CFWF-96k.aac"
+        },	
 	],		
     "yukon": [
         {
